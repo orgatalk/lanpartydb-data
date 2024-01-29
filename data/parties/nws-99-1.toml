@@ -1,0 +1,15 @@
+slug = "nws-99-1"
+title = "NWS '99/1"
+series_slug = "nws"
+start_on = 1999-01-03
+end_on = 1999-01-03
+seats = 25
+
+[location]
+name = "Dorfgemeinschaftshaus Kutenholz"
+country_code = "de"
+city = "Kutenholz"
+zip_code = "27449"
+
+[links]
+website = "https://www.nwsnet.de/"
