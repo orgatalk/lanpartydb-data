@@ -1,0 +1,15 @@
+slug = "inws-2001-1"
+title = "iNWS 2001/1 – LAN aus der Dose"
+series_slug = "nws"
+start_on = 2001-09-15
+end_on = 2001-09-16
+seats = 60
+
+[location]
+name = "Tanzsporthalle Stade"
+country_code = "de"
+city = "Stade"
+zip_code = "21682"
+
+[links]
+website = "https://www.nwsnet.de/"

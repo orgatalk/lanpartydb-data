@@ -1,1 +1,6 @@
 # Please use alphabetical order.
+
+[[series]]
+slug = "nws"
+name = "NWS"
+alternative_names = ["NetzWerkSession"]

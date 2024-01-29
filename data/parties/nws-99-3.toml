@@ -1,0 +1,15 @@
+slug = "nws-99-3"
+title = "NWS '99/3"
+series_slug = "nws"
+start_on = 1999-10-29
+end_on = 1999-10-31
+seats = 60
+
+[location]
+name = "Tanzsporthalle Stade"
+country_code = "de"
+city = "Stade"
+zip_code = "21682"
+
+[links]
+website = "https://www.nwsnet.de/"

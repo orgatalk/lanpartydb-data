@@ -1,0 +1,15 @@
+slug = "nws-2000-2"
+title = "NWS 2000/2"
+series_slug = "nws"
+start_on = 2000-10-27
+end_on = 2000-10-29
+seats = 130
+
+[location]
+name = "Tanzsporthalle Stade"
+country_code = "de"
+city = "Stade"
+zip_code = "21682"
+
+[links]
+website = "https://www.nwsnet.de/"

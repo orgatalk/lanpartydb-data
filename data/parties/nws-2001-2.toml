@@ -1,0 +1,15 @@
+slug = "nws-2001-2"
+title = "NWS 2001/2 – Jetzt erst recht!"
+series_slug = "nws"
+start_on = 2001-07-27
+end_on = 2001-07-29
+seats = 120
+
+[location]
+name = "Tanzsporthalle Stade"
+country_code = "de"
+city = "Stade"
+zip_code = "21682"
+
+[links]
+website = "https://www.nwsnet.de/"
