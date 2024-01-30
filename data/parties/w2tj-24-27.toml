@@ -1,0 +1,15 @@
+slug = "w2tj-24-27"
+title = "W2TJ v24.27 - Junge!"
+series_slug = "w2tj"
+start_on = 2018-04-13
+end_on = 2018-04-15
+seats = 77
+
+[location]
+name = "Maximilian-Kolbe-Haus"
+country_code = "de"
+city = "Seligenstadt - Froschhausen"
+zip_code = "63500"
+
+[links]
+website = "https://w2tj.net/"
