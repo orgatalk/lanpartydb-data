@@ -1,0 +1,12 @@
+slug = "unitedlans-1"
+title = "unitedLANs presents \"The Refridgeration\""
+series_slug = "unitedlans"
+start_on = 2002-12-06
+end_on = 2002-12-08
+seats = 360
+
+[location]
+name = "Festhalle Buxtehude"
+country_code = "de"
+city = "Buxtehude"
+zip_code = "21614"

@@ -4,3 +4,7 @@
 slug = "nws"
 name = "NWS"
 alternative_names = ["NetzWerkSession"]
+
+[[series]]
+slug = "unitedlans"
+name = "unitedLANs"
