@@ -1,0 +1,15 @@
+slug = "w2tj-28-03"
+title = "W2tJ v28.03 - Long Time No LAN"
+series_slug = "w2tj"
+start_on = 2022-07-29
+end_on = 2022-07-31
+seats = 88
+
+[location]
+name = "Radsporthalle Hainburg"
+country_code = "de"
+city = "Hainburg"
+zip_code = "63512"
+
+[links]
+website = "https://w2tj.net/"
