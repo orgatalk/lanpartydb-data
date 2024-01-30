@@ -1,0 +1,15 @@
+slug = "w2tj-22-25"
+title = "W2TJ v.22.25 - The best!"
+series_slug = "w2tj"
+start_on = 2017-05-04
+end_on = 2017-05-06
+seats = 77
+
+[location]
+name = "Maximilian-Kolbe-Haus"
+country_code = "de"
+city = "Seligenstadt - Froschhausen"
+zip_code = "63500"
+
+[links]
+website = "https://w2tj.net/"
