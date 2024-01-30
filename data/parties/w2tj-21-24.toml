@@ -1,1 +1,15 @@
+slug = "w2tj-21-24"
+title = "W2TJ v.21.24 - the Taste of Gaming!"
+series_slug = "w2tj"
+start_on = 2016-10-14
+end_on = 2016-10-16
+seats = 77
 
+[location]
+name = "Maximilian-Kolbe-Haus"
+country_code = "de"
+city = "Seligenstadt - Froschhausen"
+zip_code = "63500"
+
+[links]
+website = "https://w2tj.net/"
