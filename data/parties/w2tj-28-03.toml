@@ -3,13 +3,13 @@ title = "W2tJ v28.03 - Long Time No LAN"
 series_slug = "w2tj"
 start_on = 2022-07-29
 end_on = 2022-07-31
-seats = 88
+seats = 62
 
 [location]
-name = "Radsporthalle Hainburg"
+name = "Maximilian-Kolbe-Haus"
 country_code = "de"
-city = "Hainburg"
-zip_code = "63512"
+city = "Seligenstadt - Froschhausen"
+zip_code = "63500"
 
 [links]
 website = "https://w2tj.net/"
