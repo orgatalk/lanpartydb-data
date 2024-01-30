@@ -2,8 +2,7 @@
 
 The **OrgaTalk LANparty Database** is an
 [OrgaTalk](https://www.orgatalk.de/board/) project with the goal to
-preserve (a part of) the history of LAN parties, initiated in by Jochen
-Kupperschmidt.
+preserve (a part of) the history of LAN parties.
 
 This repository is meant to collect the names, dates, and more public
 information about any public LAN parties that have taken place in the
