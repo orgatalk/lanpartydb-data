@@ -1,0 +1,15 @@
+slug = "w2tj-19-22"
+title = "W2TJ v19.22 - Der Strom bleibt draußen, die Funken aber drinnen!"
+series_slug = "w2tj"
+start_on = 2015-10-23
+end_on = 2015-10-25
+seats = 77
+
+[location]
+name = "Maximilian-Kolbe-Haus"
+country_code = "de"
+city = "Seligenstadt - Froschhausen"
+zip_code = "63500"
+
+[links]
+website = "https://w2tj.net/"
