@@ -10,6 +10,7 @@ name = "Radsporthalle Hainburg"
 country_code = "de"
 city = "Hainburg"
 zip_code = "63512"
+street = "Uferstr. 19"
 
 [links]
 website = "https://w2tj.net/"
