@@ -1,0 +1,12 @@
+slug = "unitedlans-1"
+title = "unitedLANs presents \"What Are You Waitin' For? Christmas?\""
+series_slug = "unitedlans"
+start_on = 2003-11-14
+end_on = 2003-11-16
+seats = 240
+
+[location]
+name = "Festhalle Buxtehude"
+country_code = "de"
+city = "Buxtehude"
+zip_code = "21614"
