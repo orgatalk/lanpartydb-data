@@ -10,6 +10,7 @@ name = "Maximilian-Kolbe-Haus"
 country_code = "de"
 city = "Seligenstadt - Froschhausen"
 zip_code = "63500"
+street = "Anne-Frank-Str. 2"
 
 [links]
 website = "https://w2tj.net/"
