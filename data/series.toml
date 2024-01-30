@@ -8,3 +8,8 @@ alternative_names = ["NetzWerkSession"]
 [[series]]
 slug = "unitedlans"
 name = "unitedLANs"
+
+[[series]]
+slug = "w2tj"
+name = "W2tJ"
+alternative_names = ["Welcome 2 the Jungle"]
