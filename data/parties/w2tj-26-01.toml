@@ -1,0 +1,15 @@
+slug = "w2tj-26-01"
+title = "W2TJ v26.01 - Alles neu!"
+series_slug = "w2tj"
+start_on = 2019-04-12
+end_on = 2019-04-14
+seats = 88
+
+[location]
+name = "Radsporthalle Hainburg"
+country_code = "de"
+city = "Hainburg"
+zip_code = "63512"
+
+[links]
+website = "https://w2tj.net/"
