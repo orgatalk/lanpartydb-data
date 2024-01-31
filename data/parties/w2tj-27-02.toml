@@ -1,0 +1,16 @@
+slug = "w2tj-27-02"
+title = "W2TJ v27.02 - Neuer Ort, Alte Orga"
+series_slug = "w2tj"
+start_on = 2019-10-04
+end_on = 2019-10-06
+seats = 88
+
+[location]
+name = "Radsporthalle Hainburg"
+country_code = "de"
+city = "Hainburg"
+zip_code = "63512"
+street = "Uferstr. 19"
+
+[links]
+website = "https://w2tj.net/"
