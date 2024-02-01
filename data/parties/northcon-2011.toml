@@ -1,0 +1,19 @@
+slug = "northcon-2011"
+title = "Northern LAN Convention 2011"
+series_slug = "northcon"
+organizer_entity = "innovaLAN"
+start_on = 2011-12-15
+end_on = 2011-12-18
+seats = 3333
+
+[location]
+name = "Holstenhallen"
+country_code = "de"
+city = "Neumünster"
+zip_code = "24537"
+street = "Justus-von-Liebig-Str. 2-4"
+latitude = 54.09269
+longitude = 9.97664
+
+[links]
+website = "https://www.northcon.de/"

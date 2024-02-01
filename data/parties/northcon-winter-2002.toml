@@ -1,0 +1,19 @@
+slug = "northcon-winter-2002"
+title = "Northern LAN Convention Winter 2002"
+series_slug = "northcon"
+organizer_entity = "innovaLAN"
+start_on = 2002-12-20
+end_on = 2002-12-22
+seats = 1056
+
+[location]
+name = "Holstenhallen"
+country_code = "de"
+city = "Neumünster"
+zip_code = "24537"
+street = "Justus-von-Liebig-Str. 2-4"
+latitude = 54.09269
+longitude = 9.97664
+
+[links]
+website = "https://www.northcon.de/"

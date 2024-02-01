@@ -1,0 +1,19 @@
+slug = "northcon-winter-2010"
+title = "Northern LAN Convention Winter 2010"
+series_slug = "northcon"
+organizer_entity = "innovaLAN"
+start_on = 2010-12-16
+end_on = 2010-12-19
+seats = 4000
+
+[location]
+name = "Holstenhallen"
+country_code = "de"
+city = "Neumünster"
+zip_code = "24537"
+street = "Justus-von-Liebig-Str. 2-4"
+latitude = 54.09269
+longitude = 9.97664
+
+[links]
+website = "https://www.northcon.de/"
