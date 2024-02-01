@@ -1,0 +1,19 @@
+slug = "junien-3"
+title = "['ju:nien] III - Bleib doch bei Mutti!"
+series_slug = "junien"
+organizer_entity = "CNC e.V."
+start_on = 2001-11-23
+end_on = 2001-11-25
+seats = 622
+
+[location]
+name = "Stadthalle Hagen"
+country_code = "de"
+city = "Hagen"
+zip_code = "58093"
+street = "Wasserloses Tal 2"
+latitude = 51.35312
+longitude = 7.48465
+
+[links]
+website = "https://www.junien.de/party/3/"

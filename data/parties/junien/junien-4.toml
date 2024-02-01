@@ -1,0 +1,19 @@
+slug = "junien-4"
+title = "['ju:nien] IV - The Mami returns!"
+series_slug = "junien"
+organizer_entity = "CNC e.V."
+start_on = 2002-05-17
+end_on = 2001-05-19
+seats = 622
+
+[location]
+name = "Stadthalle Hagen"
+country_code = "de"
+city = "Hagen"
+zip_code = "58093"
+street = "Wasserloses Tal 2"
+latitude = 51.35312
+longitude = 7.48465
+
+[links]
+website = "https://www.junien.de/party/4/"

@@ -1,0 +1,19 @@
+slug = "junien-25"
+title = "['ju:nien] XXV - Alter kommt, Durst bleibt"
+series_slug = "junien"
+organizer_entity = "CNC e.V."
+start_on = 2023-10-27
+end_on = 2023-10-29
+seats = 682
+
+[location]
+name = "Stadthalle Hagen"
+country_code = "de"
+city = "Hagen"
+zip_code = "58093"
+street = "Wasserloses Tal 2"
+latitude = 51.35312
+longitude = 7.48465
+
+[links]
+website = "https://www.junien.de/party/25/"
