@@ -5,6 +5,10 @@ slug = "isle-of-lan"
 name = "Isle of LAN"
 
 [[series]]
+slug = "junien"
+name = "['ju:nien]"
+
+[[series]]
 slug = "lanresort"
 name = "LANresort"
 

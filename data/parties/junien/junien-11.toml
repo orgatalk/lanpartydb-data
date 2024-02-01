@@ -1,0 +1,19 @@
+slug = "junien-11"
+title = "['ju:nien] XI - Die elf Gebote"
+series_slug = "junien"
+organizer_entity = "CNC e.V."
+start_on = 2007-10-19
+end_on = 2007-10-21
+seats = 651
+
+[location]
+name = "Stadthalle Hagen"
+country_code = "de"
+city = "Hagen"
+zip_code = "58093"
+street = "Wasserloses Tal 2"
+latitude = 51.35312
+longitude = 7.48465
+
+[links]
+website = "https://www.junien.de/party/11/"

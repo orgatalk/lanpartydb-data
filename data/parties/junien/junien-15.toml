@@ -1,0 +1,19 @@
+slug = "junien-15"
+title = "['ju:nien] XV - Die nächste Letzte."
+series_slug = "junien"
+organizer_entity = "CNC e.V."
+start_on = 2011-11-04
+end_on = 2011-11-06
+seats = 653
+
+[location]
+name = "Stadthalle Hagen"
+country_code = "de"
+city = "Hagen"
+zip_code = "58093"
+street = "Wasserloses Tal 2"
+latitude = 51.35312
+longitude = 7.48465
+
+[links]
+website = "https://www.junien.de/party/15/"
