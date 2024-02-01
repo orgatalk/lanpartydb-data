@@ -1,0 +1,19 @@
+slug = "lanresort-2016"
+title = "LANresort 2016"
+series_slug = "lanresort"
+organizer_entity = "Markus Thomas"
+start_on = 2016-04-15
+end_on = 2016-04-18
+seats = 242
+
+[location]
+name = "Center Parcs Bispinger Heide"
+country_code = "de"
+city = "Bispingen"
+zip_code = "29646"
+street = "Töpinger Straße 69"
+latitude = 53.0666
+longitude = 10.00084
+
+[links]
+website = "https://www.lanresort.de/"

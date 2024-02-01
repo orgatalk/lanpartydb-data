@@ -1,6 +1,10 @@
 # Please use alphabetical order.
 
 [[series]]
+slug = "lanresort"
+name = "LANresort"
+
+[[series]]
 slug = "northcon"
 name = "NorthCon"
 alternative_names = ["Northern LAN Convention"]
