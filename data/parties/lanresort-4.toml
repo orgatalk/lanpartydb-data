@@ -1,0 +1,19 @@
+slug = "lanresort-4"
+title = "LANresort IV"
+series_slug = "lanresort"
+organizer_entity = "innovaLAN"
+start_on = 2011-03-11
+end_on = 2011-03-14
+seats = 300
+
+[location]
+name = "Center Parcs Bispinger Heide"
+country_code = "de"
+city = "Bispingen"
+zip_code = "29646"
+street = "Töpinger Straße 69"
+latitude = 53.0666
+longitude = 10.00084
+
+[links]
+website = "https://www.lanresort.de/"
