@@ -1,0 +1,18 @@
+slug = "lanresort-bostalsee-2017"
+title = "LANresort Bostalsee 2017"
+organizer_entity = "Markus Thomas"
+start_on = 2017-09-22
+end_on = 2017-09-25
+seats = 96
+
+[location]
+name = "Center Parcs Bostalsee"
+country_code = "de"
+city = "Nohfelden"
+zip_code = "66625"
+street = "Lindenallee 1"
+latitude = 49.574315
+longitude = 7.072201
+
+[links]
+website = "https://bostalsee.lanresort.de/"
