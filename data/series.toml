@@ -22,3 +22,7 @@ name = "unitedLANs"
 slug = "w2tj"
 name = "W2tJ"
 alternative_names = ["Welcome 2 the Jungle"]
+
+[[series]]
+slug = "iol"
+name = "Isle of LAN"
