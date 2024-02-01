@@ -1,0 +1,18 @@
+slug = "iol-2020"
+title = "Isle of LAN - Crowned"
+series_slug = "iol"
+start_on = 2020-10-16
+end_on = 2020-10-18
+seats = 50
+
+[location]
+name = "Auholzsaal Sulgen"
+country_code = "ch"
+city = "Sulgen"
+zip_code = "8583"
+street = "Kapellenstrasse 14"
+latitude = 47.53511
+longitude = 9.18431
+
+[links]
+website = "https://www.isleoflan.ch/"

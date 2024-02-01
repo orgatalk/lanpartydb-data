@@ -1,6 +1,10 @@
 # Please use alphabetical order.
 
 [[series]]
+slug = "iol"
+name = "Isle of LAN"
+
+[[series]]
 slug = "lanresort"
 name = "LANresort"
 
