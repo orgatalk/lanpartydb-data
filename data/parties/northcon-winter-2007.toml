@@ -1,0 +1,19 @@
+slug = "northcon-winter-2007"
+title = "Northern LAN Convention Winter 2007"
+series_slug = "northcon"
+organizer_entity = "innovaLAN"
+start_on = 2007-12-13
+end_on = 2007-12-16
+seats = 3000
+
+[location]
+name = "Holstenhallen"
+country_code = "de"
+city = "Neumünster"
+zip_code = "24537"
+street = "Justus-von-Liebig-Str. 2-4"
+latitude = 54.09269
+longitude = 9.97664
+
+[links]
+website = "https://www.northcon.de/"

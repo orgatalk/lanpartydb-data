@@ -1,0 +1,19 @@
+slug = "northcon-2018"
+title = "NorthCon 2018"
+series_slug = "northcon"
+organizer_entity = "Markus Thomas"
+start_on = 2018-12-13
+end_on = 2018-12-16
+seats = 1348
+
+[location]
+name = "Holstenhallen"
+country_code = "de"
+city = "Neumünster"
+zip_code = "24537"
+street = "Justus-von-Liebig-Str. 2-4"
+latitude = 54.09269
+longitude = 9.97664
+
+[links]
+website = "https://www.northcon.de/"
