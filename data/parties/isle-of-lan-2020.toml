@@ -1,9 +1,9 @@
-slug = "iol-2022"
-title = "Isle of LAN - Honored"
-series_slug = "iol"
-start_on = 2022-04-08
-end_on = 2022-04-10
-seats = 80
+slug = "isle-of-lan-2020"
+title = "Isle of LAN - Crowned"
+series_slug = "isle-of-lan"
+start_on = 2020-10-16
+end_on = 2020-10-18
+seats = 50
 
 [location]
 name = "Auholzsaal Sulgen"
