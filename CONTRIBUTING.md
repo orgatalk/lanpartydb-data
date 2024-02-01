@@ -42,7 +42,7 @@ alternative_names = ["That Awesome LAN Party"]
 
 ### Parties
 
-Parties legible for inclusion at this point have to be **public** and
+Parties eligible for inclusion at this point have to be **public** and
 **in the past**.
 
 Each party should be defined in its own file, which should be named
