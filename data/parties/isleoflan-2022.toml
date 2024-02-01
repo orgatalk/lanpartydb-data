@@ -1,0 +1,15 @@
+slug = "iol-2022"
+title = "Isle of LAN - Honored"
+series_slug = "iol"
+start_on = 2022-04-08
+end_on = 2022-04-10
+seats = 80
+
+[location]
+name = "Auholzsaal Sulgen"
+country_code = "ch"
+city = "Sulgen"
+zip_code = "8583"
+
+[links]
+website = "https://www.isleoflan.ch/"
