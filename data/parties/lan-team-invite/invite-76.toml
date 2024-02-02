@@ -1,0 +1,19 @@
+slug = "invite-76"
+title = "Interstate 76 - Showdown in Drewer - Invite 76"
+series_slug = "lan-team-invite"
+organizer_entity = "LAN-Team e.V."
+start_on = "2019-05-17"
+end_on = "2019-05-19"
+seats = 80
+
+[location]
+name = "St. Hubertus Schützenhalle Drewer"
+country_code = "de"
+city = "Rüthen-Drewer"
+zip_code = "59602"
+street = "Hubertusstraße 6"
+latitude = "51.5012569"
+longitude = "8.371602787447877"
+
+[links]
+website = "https://www.lan-team.de/party/?do=event&id=76"
