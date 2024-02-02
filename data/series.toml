@@ -13,6 +13,16 @@ slug = "lanresort"
 name = "LANresort"
 
 [[series]]
+slug = "lt-invite"
+name = "LAN-Team - Invite"
+alternative_names = ["LAN-Team - Invite Only"]
+
+[[series]]
+slug = "max"
+name = "Max"
+alternative_names = ["Back to the Max"]
+
+[[series]]
 slug = "northcon"
 name = "NorthCon"
 alternative_names = ["Northern LAN Convention"]

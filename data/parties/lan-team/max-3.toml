@@ -1,0 +1,19 @@
+slug = "max-3"
+title = "Max 3"
+series_slug = "max"
+organizer_entity = "LAN-Team e.V."
+start_on = "2004-02-06"
+end_on = "2004-02-08"
+seats = 400
+
+[location]
+name = "Maximilian Halle"
+country_code = "de"
+city = "Hamm"
+zip_code = "59071"
+street = "Alter Grenzweg 2"
+latitude = "51.68130085"
+longitude = "7.882592083373114"
+
+[links]
+website = "http://lan-team.de/party/?do=event&id=1"
