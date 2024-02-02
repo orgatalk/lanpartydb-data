@@ -1,0 +1,19 @@
+slug = "show-us-your-skills-invite-52"
+title = "Show us Your skills - Invite 52"
+series_slug = "lan-team-invite"
+organizer_entity = "LAN-Team e.V."
+start_on = "2012-03-02"
+end_on = "2012-03-04"
+seats = 38
+
+[location]
+name = "Bürgerhaus Hemmerde"
+country_code = "de"
+city = "Hemmerde"
+zip_code = "59427"
+street = "Hemmerder Hellweg 13"
+latitude = "51.543588"
+longitude = "7.8068133"
+
+[links]
+website = "lan-team-invite/party/?do=event&id=51"

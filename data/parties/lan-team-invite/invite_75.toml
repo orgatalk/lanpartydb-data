@@ -1,0 +1,19 @@
+slug = "dreiviertel-100-invite-75"
+title = "Dreiviertel 100 - Invite 75"
+series_slug = "lan-team-invite"
+organizer_entity = "LAN-Team e.V."
+start_on = "2018-09-28"
+end_on = "2018-09-30"
+seats = 80
+
+[location]
+name = "St. Hubertus Schützenhalle Drewer"
+country_code = "de"
+city = "Rüthen-Drewer"
+zip_code = "59602"
+street = "Hubertusstraße 6"
+latitude = "51.5012569"
+longitude = "8.371602787447877"
+
+[links]
+website = "lan-team-invite/party/?do=event&id=75"
