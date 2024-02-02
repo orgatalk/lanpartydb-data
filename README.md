@@ -41,6 +41,8 @@ New or updated data can be submitted through a pull request (PR). If
 that is not an option for you, feel free to get in touch with us and
 submit data through another channel, and potentially in another format.
 
+See [`CONTRIBUTING.md`](./CONTRIBUTING.md) for details.
+
 
 ## License
 
