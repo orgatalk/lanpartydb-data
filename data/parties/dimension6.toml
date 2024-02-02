@@ -1,0 +1,18 @@
+slug = "dimension6"
+title = "Dimension 6"
+organizer_entity = "innovaLAN"
+start_on = 2006-12-14
+end_on = 2006-12-17
+seats = 6280
+
+[location]
+name = "Messe Bremen"
+country_code = "de"
+city = "Bremen"
+zip_code = "28215"
+street = "Hollerallee 101"
+latitude = 53.08886
+longitude = 8.81416
+
+[links]
+website = "http://www.dimension6.de/"
