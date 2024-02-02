@@ -1,0 +1,19 @@
+slug = "invite-only-19"
+title = "Invite-Only 19"
+series_slug = "lan-team-invite"
+organizer_entity = "LAN-Team e.V."
+start_on = "2005-03-25"
+end_on = "2005-03-27"
+seats = 60
+
+[location]
+name = "Bürgerhaus Hemmerde"
+country_code = "de"
+city = "Hemmerde"
+zip_code = "59427"
+street = "Hemmerder Hellweg 13"
+latitude = "51.543588"
+longitude = "7.8068133"
+
+[links]
+website = "http://lan-team.de/party/?do=event&id=17"

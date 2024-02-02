@@ -13,7 +13,7 @@ slug = "lanresort"
 name = "LANresort"
 
 [[series]]
-slug = "lt-invite"
+slug = "lan-team-invite"
 name = "LAN-Team - Invite"
 alternative_names = ["LAN-Team - Invite Only"]
 

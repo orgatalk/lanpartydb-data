@@ -1,0 +1,19 @@
+slug = "hemmerde-heisst-jetzt-drewer-invite-72"
+title = "Hemmerde heißt jetzt Drewer - Invite 72"
+series_slug = "lan-team-invite"
+organizer_entity = "LAN-Team e.V."
+start_on = "2017-03-10"
+end_on = "2017-03-12"
+seats = 80
+
+[location]
+name = "St. Hubertus Schützenhalle Drewer"
+country_code = "de"
+city = "Rüthen-Drewer"
+zip_code = "59602"
+street = "Hubertusstraße 6"
+latitude = "51.5012569"
+longitude = "8.371602787447877"
+
+[links]
+website = "http://lan-team.de/party/?do=event&id=72"
