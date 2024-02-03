@@ -10,6 +10,9 @@ name = "Dorfgemeinschaftshaus Kutenholz"
 country_code = "de"
 city = "Kutenholz"
 zip_code = "27449"
+street = "Hauptstraße 27"
+latitude = 53.48528
+longitude = 9.32291
 
 [links]
 website = "https://www.nwsnet.de/"
