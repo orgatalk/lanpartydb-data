@@ -35,7 +35,7 @@ jobs:
           chmod u+x /usr/local/bin/taplo
 
       - name: Validate party series TOML file
-        run: taplo lint data/series.toml && taplo format --check data/series.toml
+        run: taplo lint --schema "file://"$PWD"/schemas/series.json" data/series.toml && taplo format --check data/series.toml
 
       - name: Validate party TOML files
         run: |
