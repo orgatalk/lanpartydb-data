@@ -1,0 +1,19 @@
+slug = "invite-58"
+title = "Hammer Fall - Invite 58"
+series_slug = "lan-team-invite"
+organizer_entity = "LAN-Team e.V."
+start_on = "2013-09-13"
+end_on = "2013-09-15"
+seats = 38
+
+[location]
+name = "Bürgerhaus Hemmerde"
+country_code = "de"
+city = "Hemmerde"
+zip_code = "59427"
+street = "Hemmerder Hellweg 13"
+latitude = "51.543588"
+longitude = "7.8068133"
+
+[links]
+website = "https://www.lan-team.de/party/?do=event&id=58"

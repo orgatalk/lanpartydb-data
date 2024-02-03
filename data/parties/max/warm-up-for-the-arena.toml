@@ -1,0 +1,19 @@
+slug = "warm-up-for-the-arena"
+title = "Warm up for the Arena"
+series_slug = "Max"
+organizer_entity = "LAN-Team e.V."
+start_on = "2002-02-22"
+end_on = "2002-02-24"
+seats = 400
+
+[location]
+name = "Maximilian Halle"
+country_code = "de"
+city = "Hamm"
+zip_code = "59071"
+street = "Alter Grenzweg 2"
+latitude = "51.68130085"
+longitude = "7.882592083373114"
+
+[links]
+website = "http://lan-team.de/party/?do=event&id=4"
