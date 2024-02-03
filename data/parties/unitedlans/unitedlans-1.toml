@@ -10,3 +10,6 @@ name = "Festhalle Buxtehude"
 country_code = "de"
 city = "Buxtehude"
 zip_code = "21614"
+street = "Hansestraße 16"
+latitude = 53.47125
+longitude = 9.69637
