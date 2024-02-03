@@ -2,6 +2,7 @@ name: Validate data files
 
 on:
   push:
+    branches: [ main ]
     paths:
       - 'data/**/*.toml'
 
