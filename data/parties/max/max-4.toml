@@ -12,8 +12,8 @@ country_code = "de"
 city = "Hamm"
 zip_code = "59071"
 street = "Alter Grenzweg 2"
-latitude = "51.68130085"
-longitude = "7.882592083373114"
+latitude = 51.68130085
+longitude = 7.882592083373114
 
 [links]
 website = "http://lan-team.de/party/?do=event&id=14"

@@ -12,8 +12,8 @@ country_code = "de"
 city = "Hemmerde"
 zip_code = "59427"
 street = "Hemmerder Hellweg 13"
-latitude = "51.543588"
-longitude = "7.8068133"
+latitude = 51.543588
+longitude = 7.8068133
 
 [links]
 website = "https://www.lan-team.de/party/?do=event&id=63"
