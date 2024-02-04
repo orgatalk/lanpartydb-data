@@ -40,4 +40,4 @@ jobs:
       - name: Validate party TOML files
         run: |
           shopt -s globstar
-          taplo lint data/parties/**/*.toml && taplo format --check data/parties/**/*.toml
+          taplo lint --schema "file://"$PWD"/schemas/party.json" data/parties/**/*.toml && taplo format --check data/parties/**/*.toml

@@ -1,0 +1,76 @@
+{
+  "title": "LAN party",
+  "type": "object",
+  "properties": {
+    "slug": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "series_slug": {
+      "type": "string"
+    },
+    "organizer_entity": {
+      "type": "string"
+    },
+    "start_on": {
+      "type": "string"
+    },
+    "end_on": {
+      "type": "string"
+    },
+    "seats": {
+      "type": "integer",
+      "minimum": 2
+    },
+    "location": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "country_code": {
+          "type": "string"
+        },
+        "city": {
+          "type": "string"
+        },
+        "zip_code": {
+          "type": "string"
+        },
+        "street": {
+          "type": "string"
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "name",
+        "country_code",
+        "city"
+      ]
+    },
+    "links": {
+      "type": "object",
+      "properties": {
+        "website": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "website"
+      ]
+    }
+  },
+    "required": [
+      "slug",
+      "title",
+      "start_on",
+      "end_on"
+    ]
+}
