@@ -3,6 +3,7 @@ title = "LANresort 2023"
 series_slug = "lanresort"
 organizer_entity = "NorthCon e.V."
 start_on = 2023-05-05
+end_on = 2023-05-08
 seats = 350
 
 [location]
