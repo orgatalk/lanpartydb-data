@@ -22,7 +22,10 @@
             "uniqueItems": true
           }
         },
-        "required": ["slug", "name"]
+        "required": [
+          "slug",
+          "name"
+        ]
       }
     }
   }
