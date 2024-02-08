@@ -2,11 +2,6 @@ name: Validate data files
 
 on:
   push:
-    branches: [ main ]
-    paths:
-      - 'data/**/*.toml'
-
-  pull_request:
     paths:
       - 'data/**/*.toml'
 
