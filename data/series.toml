@@ -37,9 +37,8 @@ slug = "saarlan"
 name = "SaarLAN"
 
 [[series]]
-slug = "slglan-saarlan"
+slug = "slg-lan"
 name = "sLg | LAN"
-alternative_names = ["sLg | LAN - LANs vor SaarLAN"]
 
 [[series]]
 slug = "unitedlans"
