@@ -32,6 +32,14 @@ name = "NWS"
 alternative_names = ["NetzWerkSession"]
 
 [[series]]
+slug = "saarlan"
+name = "SaarLAN"
+
+[[series]]
+slug = "slg-lan"
+name = "sLg | LAN"
+
+[[series]]
 slug = "unitedlans"
 name = "unitedLANs"
 

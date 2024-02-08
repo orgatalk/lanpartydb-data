@@ -1,0 +1,17 @@
+slug = "saarlan-8.5"
+title = "SaarLAN #8.5"
+series_slug = "saarlan"
+organizer_entity = "SaarLAN e.V."
+start_on = 2020-04-10
+end_on = 2020-04-10
+seats = 250
+
+[location]
+name = "OnlineLAN"
+country_code = "de"
+city = "internet"
+zip_code = "1337"
+street = "WAN"
+
+[links]
+website = "https://www.saar-lan.de/party/15"

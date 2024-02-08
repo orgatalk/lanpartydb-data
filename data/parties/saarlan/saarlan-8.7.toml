@@ -1,0 +1,17 @@
+slug = "saarlan-8.7"
+title = "SaarLAN #8.7"
+series_slug = "saarlan"
+organizer_entity = "SaarLAN e.V."
+start_on = 2020-10-16
+end_on = 2020-10-18
+seats = 160
+
+[location]
+name = "Mühlbachhalle Schiffweiler"
+country_code = "de"
+city = "Schiffweiler"
+zip_code = "66578"
+street = "Comeniusstraße 2"
+
+[links]
+website = "https://www.saar-lan.de/party/16"

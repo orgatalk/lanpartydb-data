@@ -1,0 +1,16 @@
+slug = "slg-sommerlan-2010"
+title = "sLg | SommerLAN 2014"
+series_slug = "slg-lan"
+start_on = 2010-07-30
+end_on = 2010-08-01
+seats = 12
+
+[location]
+name = "Schulsporthalle Illingen"
+country_code = "de"
+city = "Illingen"
+zip_code = "66557"
+street = "Schulstraße 4"
+
+[links]
+website = "https://www.saar-lan.de/"

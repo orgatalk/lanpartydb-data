@@ -1,0 +1,17 @@
+slug = "saarlan-4"
+title = "SaarLAN #4"
+series_slug = "saarlan"
+organizer_entity = "SaarLAN e.V."
+start_on = 2017-10-13
+end_on = 2017-10-15
+seats = 120
+
+[location]
+name = "Mühlbachhalle Schiffweiler"
+country_code = "de"
+city = "Schiffweiler"
+zip_code = "66578"
+street = "Comeniusstraße 2"
+
+[links]
+website = "https://www.saar-lan.de/party/5"
