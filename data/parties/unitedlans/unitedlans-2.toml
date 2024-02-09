@@ -15,4 +15,4 @@ latitude = 53.47125
 longitude = 9.69637
 
 [links]
-website = "http://www.unitedlans.de/"
+website = { url = "http://www.unitedlans.de/", offline = true }
