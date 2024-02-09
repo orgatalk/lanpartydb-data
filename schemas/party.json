@@ -24,6 +24,9 @@
       "type": "integer",
       "minimum": 2
     },
+    "online": {
+      "type": "boolean"
+    },
     "location": {
       "type": "object",
       "properties": {
