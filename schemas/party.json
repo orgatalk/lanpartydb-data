@@ -56,7 +56,11 @@
         "name",
         "country_code",
         "city"
-      ]
+      ],
+      "dependentRequired": {
+        "latitude": "longitude",
+        "longitude": "latitude"
+      }
     },
     "links": {
       "type": "object",
