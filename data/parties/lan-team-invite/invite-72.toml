@@ -2,8 +2,8 @@ slug = "invite-72"
 title = "Hemmerde heißt jetzt Drewer - Invite 72"
 series_slug = "lan-team-invite"
 organizer_entity = "LAN-Team e.V."
-start_on = "2017-03-10"
-end_on = "2017-03-12"
+start_on = 2017-03-10
+end_on = 2017-03-12
 seats = 80
 
 [location]

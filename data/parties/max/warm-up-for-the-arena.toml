@@ -2,8 +2,8 @@ slug = "warm-up-for-the-arena"
 title = "Warm up for the Arena"
 series_slug = "Max"
 organizer_entity = "LAN-Team e.V."
-start_on = "2002-02-22"
-end_on = "2002-02-24"
+start_on = 2002-02-22
+end_on = 2002-02-24
 seats = 400
 
 [location]

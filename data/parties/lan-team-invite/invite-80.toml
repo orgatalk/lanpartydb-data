@@ -2,8 +2,8 @@ slug = "invite-80"
 title = "Fremde Gezeiten - Invite 80"
 series_slug = "lan-team-invite"
 organizer_entity = "LAN-Team e.V."
-start_on = "2023-03-17"
-end_on = "2023-03-19"
+start_on = 2023-03-17
+end_on = 2023-03-19
 seats = 80
 
 [location]

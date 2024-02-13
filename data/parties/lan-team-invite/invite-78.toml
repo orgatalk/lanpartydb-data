@@ -2,8 +2,8 @@ slug = "invite-78"
 title = "Buenos días, Drewerina - Adios, Corona! - Invite 78 (jetzt aber!!!)"
 series_slug = "lan-team-invite"
 organizer_entity = "LAN-Team e.V."
-start_on = "2022-04-08"
-end_on = "2022-04-10"
+start_on = 2022-04-08
+end_on = 2022-04-10
 seats = 80
 
 [location]

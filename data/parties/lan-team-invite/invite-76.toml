@@ -2,8 +2,8 @@ slug = "invite-76"
 title = "Interstate 76 - Showdown in Drewer - Invite 76"
 series_slug = "lan-team-invite"
 organizer_entity = "LAN-Team e.V."
-start_on = "2019-05-17"
-end_on = "2019-05-19"
+start_on = 2019-05-17
+end_on = 2019-05-19
 seats = 80
 
 [location]

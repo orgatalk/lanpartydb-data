@@ -2,8 +2,8 @@ slug = "invite-15"
 title = "Invite-Only 15"
 series_slug = "lan-team-invite"
 organizer_entity = "LAN-Team e.V."
-start_on = "2004-09-17"
-end_on = "2004-09-19"
+start_on = 2004-09-17
+end_on = 2004-09-19
 seats = 60
 
 [location]

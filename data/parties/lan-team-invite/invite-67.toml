@@ -2,8 +2,8 @@ slug = "invite-67"
 title = "NO X'MAS - Invite 67"
 series_slug = "lan-team-invite"
 organizer_entity = "LAN-Team e.V."
-start_on = "2015-12-11"
-end_on = "2015-12-13"
+start_on = 2015-12-11
+end_on = 2015-12-13
 seats = 40
 
 [location]

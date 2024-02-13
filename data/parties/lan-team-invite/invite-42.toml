@@ -2,8 +2,8 @@ slug = "invite-42"
 title = "Die große Turney zu Hemmerde - Invite 42"
 series_slug = "lan-team-invite"
 organizer_entity = "LAN-Team e.V."
-start_on = "2009-08-07"
-end_on = "2009-08-09"
+start_on = 2009-08-07
+end_on = 2009-08-09
 seats = 68
 
 [location]

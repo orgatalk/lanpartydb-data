@@ -2,8 +2,8 @@ slug = "invite-71"
 title = "Die Letzte Reloaded Part 3 - Jetzt erst recht! - Invite 71"
 series_slug = "lan-team-invite"
 organizer_entity = "LAN-Team e.V."
-start_on = "2016-12-09"
-end_on = "2016-12-11"
+start_on = 2016-12-09
+end_on = 2016-12-11
 seats = 44
 
 [location]

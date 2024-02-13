@@ -2,8 +2,8 @@ slug = "invite-51"
 title = "Die letzte Etappe - Invite 51"
 series_slug = "lan-team-invite"
 organizer_entity = "LAN-Team e.V."
-start_on = "2011-12-16"
-end_on = "2011-12-18"
+start_on = 2011-12-16
+end_on = 2011-12-18
 seats = 38
 
 [location]

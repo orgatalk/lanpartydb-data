@@ -2,8 +2,8 @@ slug = "invite-54"
 title = "LIV. Oh Lympische Sommerspiele - Invite 54"
 series_slug = "lan-team-invite"
 organizer_entity = "LAN-Team e.V."
-start_on = "2012-09-07"
-end_on = "2012-09-09"
+start_on = 2012-09-07
+end_on = 2012-09-09
 seats = 38
 
 [location]

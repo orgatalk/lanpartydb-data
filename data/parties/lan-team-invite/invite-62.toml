@@ -2,8 +2,8 @@ slug = "invite-62"
 title = "Das Ding... - Massaker auf de_shithouse - Invite 62"
 series_slug = "lan-team-invite"
 organizer_entity = "LAN-Team e.V."
-start_on = "2014-09-12"
-end_on = "2014-09-14"
+start_on = 2014-09-12
+end_on = 2014-09-14
 seats = 40
 
 [location]

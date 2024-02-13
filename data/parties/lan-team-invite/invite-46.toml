@@ -2,8 +2,8 @@ slug = "invite-46"
 title = "Der 10. Geburtstag - Invite 46"
 series_slug = "lan-team-invite"
 organizer_entity = "LAN-Team e.V."
-start_on = "2010-07-30"
-end_on = "2010-08-01"
+start_on = 2010-07-30
+end_on = 2010-08-01
 seats = 42
 
 [location]

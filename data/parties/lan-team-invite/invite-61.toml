@@ -2,8 +2,8 @@ slug = "invite-61"
 title = "Himmelfart im Bürgerhouse - Bis die Engel weinen - Invite 61"
 series_slug = "lan-team-invite"
 organizer_entity = "LAN-Team e.V."
-start_on = "2014-05-30"
-end_on = "2014-06-01"
+start_on = 2014-05-30
+end_on = 2014-06-01
 seats = 40
 
 [location]

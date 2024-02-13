@@ -2,8 +2,8 @@ slug = "invite-81"
 title = "Schlaflos in Drewer - Invite 81"
 series_slug = "lan-team-invite"
 organizer_entity = "LAN-Team e.V."
-start_on = "2023-09-15"
-end_on = "2023-09-17"
+start_on = 2023-09-15
+end_on = 2023-09-17
 seats = 80
 
 [location]

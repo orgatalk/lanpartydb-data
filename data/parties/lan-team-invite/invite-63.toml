@@ -2,8 +2,8 @@ slug = "invite-63"
 title = "Santa's Nightmare... leise röchelt das Rentier - Invite 63"
 series_slug = "lan-team-invite"
 organizer_entity = "LAN-Team e.V."
-start_on = "2014-12-05"
-end_on = "2014-12-07"
+start_on = 2014-12-05
+end_on = 2014-12-07
 seats = 40
 
 [location]

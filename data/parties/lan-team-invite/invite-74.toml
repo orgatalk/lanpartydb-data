@@ -2,8 +2,8 @@ slug = "invite-74"
 title = "Kniebeugen im Gurkenfeld - Invite 74"
 series_slug = "lan-team-invite"
 organizer_entity = "LAN-Team e.V."
-start_on = "2018-04-13"
-end_on = "2018-04-15"
+start_on = 2018-04-13
+end_on = 2018-04-15
 seats = 80
 
 [location]

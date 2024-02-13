@@ -2,8 +2,8 @@ slug = "invite-60"
 title = "Sweet Sixty - Senioren-Invite 60"
 series_slug = "lan-team-invite"
 organizer_entity = "LAN-Team e.V."
-start_on = "2014-03-07"
-end_on = "2014-03-09"
+start_on = 2014-03-07
+end_on = 2014-03-09
 seats = 40
 
 [location]

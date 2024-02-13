@@ -2,8 +2,8 @@ slug = "invite-75"
 title = "Dreiviertel 100 - Invite 75"
 series_slug = "lan-team-invite"
 organizer_entity = "LAN-Team e.V."
-start_on = "2018-09-28"
-end_on = "2018-09-30"
+start_on = 2018-09-28
+end_on = 2018-09-30
 seats = 80
 
 [location]

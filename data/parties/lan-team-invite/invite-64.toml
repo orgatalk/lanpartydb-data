@@ -2,8 +2,8 @@ slug = "invite-64"
 title = "i64: Das einzig wahre Betriebssystem - Invite 64"
 series_slug = "lan-team-invite"
 organizer_entity = "LAN-Team e.V."
-start_on = "2015-03-06"
-end_on = "2015-03-08"
+start_on = 2015-03-06
+end_on = 2015-03-08
 seats = 40
 
 [location]

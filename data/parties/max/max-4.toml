@@ -2,8 +2,8 @@ slug = "max-4"
 title = "Max 4"
 series_slug = "max"
 organizer_entity = "LAN-Team e.V."
-start_on = "2005-02-25"
-end_on = "2005-02-27"
+start_on = 2005-02-25
+end_on = 2005-02-27
 seats = 400
 
 [location]

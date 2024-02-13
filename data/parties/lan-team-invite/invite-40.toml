@@ -2,8 +2,8 @@ slug = "invite-40"
 title = "In den besten Jahren - Invite 40"
 series_slug = "lan-team-invite"
 organizer_entity = "LAN-Team e.V."
-start_on = "2009-02-06"
-end_on = "2009-02-08"
+start_on = 2009-02-06
+end_on = 2009-02-08
 seats = 68
 
 [location]

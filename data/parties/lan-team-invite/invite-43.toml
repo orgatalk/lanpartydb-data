@@ -2,8 +2,8 @@ slug = "invite-43"
 title = "Quizzoriz0r * Der Preis macht heiß - Invite 43"
 series_slug = "lan-team-invite"
 organizer_entity = "LAN-Team e.V."
-start_on = "2009-11-06"
-end_on = "2009-11-08"
+start_on = 2009-11-06
+end_on = 2009-11-08
 seats = 68
 
 [location]

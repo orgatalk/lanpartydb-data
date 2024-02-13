@@ -2,8 +2,8 @@ slug = "invite-68"
 title = "Alles bleibt gut - Invite 68"
 series_slug = "lan-team-invite"
 organizer_entity = "LAN-Team e.V."
-start_on = "2016-03-11"
-end_on = "2016-03-13"
+start_on = 2016-03-11
+end_on = 2016-03-13
 seats = 41
 
 [location]
