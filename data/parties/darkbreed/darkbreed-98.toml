@@ -1,0 +1,15 @@
+slug = "darkbreed-98"
+title = "DarkBreed '98 – The Power of Playing"
+series_slug = "darkbreed"
+organizer_entity = "DarkBreed e.V."
+start_on = 1998-04-03
+end_on = 1998-04-05
+seats = 165
+
+[location]
+country_code = "de"
+city = "Dorheim (Friedberg)"
+zip_code = "61169"
+
+[links]
+website = { url = "http://www.darkbreed.net/", offline = true }

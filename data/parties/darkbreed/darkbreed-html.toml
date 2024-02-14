@@ -1,0 +1,19 @@
+slug = "darkbreed-html"
+title = "DarkBreed – <HTML> – Hessentag meets LAN"
+series_slug = "darkbreed"
+organizer_entity = "DarkBreed e.V."
+start_on = 2001-05-18
+end_on = 2001-05-20
+seats = 350
+
+[location]
+name = "Turnhalle der Heinrich-Mann-Schule"
+country_code = "de"
+city = "Dietzenbach"
+zip_code = "63128"
+street = "Etruskerstraße 2"
+latitude = 50.02600
+longitude = 8.78038
+
+[links]
+website = { url = "http://www.darkbreed.net/", offline = true }
