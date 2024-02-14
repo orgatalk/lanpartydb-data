@@ -12,7 +12,19 @@
       "type": "string"
     },
     "organizer_entity": {
-      "type": "string"
+      "oneOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "minItems": 1,
+          "uniqueItems": true
+        }
+      ]
     },
     "start_on": {
       "type": "string"
