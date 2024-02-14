@@ -1,0 +1,19 @@
+slug = "the-activation-2"
+title = "The Activation 2"
+series_slug = "the-activation"
+organizer_entity = "innovaLAN"
+start_on = 2004-10-01
+end_on = 2004-10-03
+seats = 886
+
+[location]
+name = "Heidmarkhalle"
+country_code = "de"
+city = "Bad Fallingbostel"
+zip_code = "29683"
+street = "Soltauer Straße 39"
+latitude = 52.87472
+longitude = 9.70557
+
+[links]
+website = { url = "http://www.the-activation.de/", offline = true }
