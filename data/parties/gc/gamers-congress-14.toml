@@ -1,11 +1,10 @@
-slug = "gc-9"
-title = "Gamers' Congress #9 JB-Vill"
-series_slug = "gc"
+slug = "gamers-congress-14"
+title = "Gamers' Congress #14"
+series_slug = "gamers-congress"
 organizer_entity = "LAN Foundation e.V."
-start_on = "2010-03-26"
-end_on = "2010-03-26"
-seats = 134
-online = true
+start_on = 2014-04-25
+end_on = 2014-04-25
+seats = 136
 
 [location]
 name = "Ehemaliges Kloster Johannesbrunn"
@@ -17,4 +16,4 @@ latitude = 48.47797230752822
 longitude =  12.462374774947447
 
 [links]
-website = "https://www.gamers-congress.de/party/7"
+website = "https://www.gamers-congress.de/party/12"

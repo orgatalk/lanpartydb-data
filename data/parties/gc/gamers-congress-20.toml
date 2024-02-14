@@ -1,11 +1,10 @@
-slug = "gc-19"
-title = "Gamers Congress #19"
-series_slug = "gc"
+slug = "gamers-congress-20"
+title = " Gamers Congress #20"
+series_slug = "gamers-congress"
 organizer_entity = "LAN Foundation e.V."
-start_on = "2019-03-22"
-end_on = "2019-03-22"
+start_on = 2020-04-24
+end_on = 2020-04-24
 seats = 150
-online = true
 
 [location]
 name = "Ehemaliges Kloster Johannesbrunn"
@@ -17,4 +16,4 @@ latitude = 48.47797230752822
 longitude =  12.462374774947447
 
 [links]
-website = "https://www.gamers-congress.de/party/17"
+website = "https://www.gamers-congress.de/party/18"

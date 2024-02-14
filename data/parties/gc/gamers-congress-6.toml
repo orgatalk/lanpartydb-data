@@ -1,11 +1,10 @@
-slug = "gc-6"
+slug = "gamers-congress-6"
 title = "Gamers' Congress #6"
-series_slug = "gc"
+series_slug = "gamers-congress"
 organizer_entity = "LAN Foundation e.V."
-start_on = "2008-06-20"
-end_on = "2008-06-20"
+start_on = 2008-06-20
+end_on = 2008-06-20
 seats = 325
-online = true
 
 [location]
 name = "Stadthalle Dingolfing"

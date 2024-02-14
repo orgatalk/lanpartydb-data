@@ -1,11 +1,10 @@
-slug = "gc-7"
+slug = "gamers-congress-7"
 title = "Gamers' Congress #7 JB-Vill"
-series_slug = "gc"
+series_slug = "gamers-congress"
 organizer_entity = "LAN Foundation e.V."
-start_on = "2009-03-13"
-end_on = "2009-03-13"
+start_on = 2009-03-13
+end_on = 2009-03-13
 seats = 138
-online = true
 
 [location]
 name = "Ehemaliges Kloster Johannesbrunn"

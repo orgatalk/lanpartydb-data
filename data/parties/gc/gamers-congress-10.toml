@@ -1,11 +1,10 @@
-slug = "gc-17"
-title = "Gamers' Congress #17"
-series_slug = "gc"
+slug = "gamers-congress-10"
+title = "Gamers' Congress #10 - Jubiläum"
+series_slug = "gamers-congress"
 organizer_entity = "LAN Foundation e.V."
-start_on = "2017-04-28"
-end_on = "2017-04-28"
-seats = 150
-online = true
+start_on = 2010-10-15
+end_on = 2010-10-15
+seats = 137
 
 [location]
 name = "Ehemaliges Kloster Johannesbrunn"
@@ -17,4 +16,4 @@ latitude = 48.47797230752822
 longitude =  12.462374774947447
 
 [links]
-website = "https://www.gamers-congress.de/party/15"
+website = "https://www.gamers-congress.de/party/8"
