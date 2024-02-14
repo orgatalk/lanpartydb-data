@@ -1,6 +1,7 @@
 slug = "w2tj-30-05"
 title = "W2tJ v30.05"
 series_slug = "w2tj"
+organizer_entity = "W2tJ-LAN e.V."
 start_on = 2023-03-24
 end_on = 2023-03-26
 seats = 62
@@ -11,6 +12,8 @@ country_code = "de"
 city = "Seligenstadt - Froschhausen"
 zip_code = "63500"
 street = "Anne-Frank-Str. 2"
+latitude = 50.05504
+longitude = 8.94255
 
 [links]
 website = "https://w2tj.net/"
