@@ -1,10 +1,10 @@
-slug = "w2tj-22-25"
-title = "W2TJ v.22.25 - The best!"
+slug = "w2tj-00-02"
+title = "KJG-F-Lan-02"
 series_slug = "w2tj"
 organizer_entity = "KJG Froschhausen"
-start_on = 2017-05-04
-end_on = 2017-05-07
-seats = 77
+start_on = 2005-11-18
+end_on = 2005-11-20
+seats = 72
 
 [location]
 name = "Maximilian-Kolbe-Haus"
