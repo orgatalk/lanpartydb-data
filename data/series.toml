@@ -9,6 +9,10 @@ slug = "fragshow"
 name = "FragShow"
 
 [[series]]
+slug = "insanity"
+name = "Insanity"
+
+[[series]]
 slug = "isle-of-lan"
 name = "Isle of LAN"
 
