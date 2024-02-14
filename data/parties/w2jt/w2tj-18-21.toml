@@ -1,10 +1,10 @@
-slug = "w2tj-30-05"
-title = "W2tJ v30.05"
+slug = "w2tj-18-21"
+title = "W2TJ v18.21 - Der Strom bleibt draußen, die Funken aber drinnen!"
 series_slug = "w2tj"
-organizer_entity = "W2tJ-LAN e.V."
-start_on = 2023-03-24
-end_on = 2023-03-26
-seats = 62
+organizer_entity = "KJG Froschhausen"
+start_on = 2015-04-10
+end_on = 2015-04-12
+seats = 80
 
 [location]
 name = "Maximilian-Kolbe-Haus"

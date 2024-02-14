@@ -1,10 +1,10 @@
-slug = "w2tj-30-05"
-title = "W2tJ v30.05"
+slug = "w2tj-13-16"
+title = "W2TJ v13.16"
 series_slug = "w2tj"
-organizer_entity = "W2tJ-LAN e.V."
-start_on = 2023-03-24
-end_on = 2023-03-26
-seats = 62
+organizer_entity = "KJG Froschhausen"
+start_on = 2012-10-12
+end_on = 2012-10-14
+seats = 80
 
 [location]
 name = "Maximilian-Kolbe-Haus"

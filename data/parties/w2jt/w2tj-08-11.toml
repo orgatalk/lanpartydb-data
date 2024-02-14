@@ -1,10 +1,10 @@
-slug = "w2tj-30-05"
-title = "W2tJ v30.05"
+slug = "w2tj-08-11"
+title = "W2TJ v08.11 - Goes America"
 series_slug = "w2tj"
-organizer_entity = "W2tJ-LAN e.V."
-start_on = 2023-03-24
-end_on = 2023-03-26
-seats = 62
+organizer_entity = "KJG Froschhausen"
+start_on = 2010-05-14
+end_on = 2010-05-16
+seats = 78
 
 [location]
 name = "Maximilian-Kolbe-Haus"
