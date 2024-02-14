@@ -1,0 +1,19 @@
+slug = "the-activation"
+title = "The Activation"
+series_slug = "the-activation"
+organizer_entity = "innovaLAN"
+start_on = 2003-10-17
+end_on = 2003-10-19
+seats = 1360
+
+[location]
+name = "Messehallen Hannover"
+country_code = "de"
+city = "Hannover"
+zip_code = "30521"
+street = "Messegelände"
+latitude = 52.32300
+longitude = 9.80465
+
+[links]
+website = { url = "http://www.the-activation.de/", offline = true }

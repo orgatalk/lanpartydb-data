@@ -52,6 +52,10 @@ slug = "slg-lan"
 name = "sLg | LAN"
 
 [[series]]
+slug = "the-activation"
+name = "The Activation"
+
+[[series]]
 slug = "unitedlans"
 name = "unitedLANs"
 
