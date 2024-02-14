@@ -1,6 +1,7 @@
 slug = "w2tj-23-26"
 title = "W2TJ v.23.26 - Meddl Leude!"
 series_slug = "w2tj"
+organizer_entity = "KJG Froschhausen"
 start_on = 2017-10-13
 end_on = 2017-10-15
 seats = 77
@@ -11,6 +12,8 @@ country_code = "de"
 city = "Seligenstadt - Froschhausen"
 zip_code = "63500"
 street = "Anne-Frank-Str. 2"
+latitude = 50.05504
+longitude = 8.94255
 
 [links]
 website = "https://w2tj.net/"
