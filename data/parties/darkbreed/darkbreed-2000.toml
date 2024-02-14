@@ -1,0 +1,19 @@
+slug = "darkbreed-2000"
+title = "DarkBreed 2000 – Breaking Normality"
+series_slug = "darkbreed"
+organizer_entity = "DarkBreed e.V."
+start_on = 2000-07-28
+end_on = 2000-07-30
+seats = 2285
+
+[location]
+name = "Rhein-Main-Hallen"
+country_code = "de"
+city = "Wiesbaden"
+zip_code = "65185"
+street = "Rheinstraße 20"
+latitude = 50.07714
+longitude = 8.24423
+
+[links]
+website = { url = "http://www.darkbreed.net/", offline = true }

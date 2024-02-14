@@ -1,0 +1,14 @@
+slug = "darkbreed-99"
+title = "DarkBreed '99 – Qualify for Hell"
+series_slug = "darkbreed"
+organizer_entity = "DarkBreed e.V."
+start_on = 1999-03-26
+end_on = 1999-03-28
+seats = 622
+
+[location]
+country_code = "de"
+city = "Darmstadt"
+
+[links]
+website = { url = "http://www.darkbreed.net/", offline = true }

@@ -1,0 +1,19 @@
+slug = "darkbreed-project-unreal"
+title = "DarkBreed – Project.Unreal"
+series_slug = "darkbreed"
+organizer_entity = "DarkBreed e.V."
+start_on = 2002-03-29
+end_on = 2002-03-31
+seats = 1111
+
+[location]
+name = "August-Schärttner-Halle"
+country_code = "de"
+city = "Hanau"
+zip_code = "63452"
+street = "Martin-Luther-King-Straße 48"
+latitude = 50.14958
+longitude = 8.92063
+
+[links]
+website = { url = "http://www.darkbreed.net/", offline = true }

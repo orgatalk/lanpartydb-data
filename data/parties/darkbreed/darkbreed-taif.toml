@@ -1,0 +1,18 @@
+slug = "darkbreed-taif"
+title = "DarkBreed – The Audience is Fragging"
+series_slug = "darkbreed"
+organizer_entity = "DarkBreed e.V."
+start_on = 2000-11-27
+end_on = 2000-11-28
+seats = 90
+
+[location]
+name = "Kinopolis Main-Taunus-Zentrum"
+country_code = "de"
+city = "Sulzbach"
+zip_code = "65843"
+latitude = 50.12095
+longitude = 8.52404
+
+[links]
+website = { url = "http://www.darkbreed.net/", offline = true }
