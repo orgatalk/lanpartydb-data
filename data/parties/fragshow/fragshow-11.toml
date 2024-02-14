@@ -1,0 +1,19 @@
+slug = "fragshow-11"
+title = "FragShow 11"
+series_slug = "fragshow"
+organizer_entity = "Computerclub NetGen e.V."
+start_on = 1999-05-29
+end_on = 1999-05-30
+seats = 72
+
+[location]
+name = "Jahn-Halle"
+country_code = "de"
+city = "Pinneberg"
+zip_code = "25421"
+street = "Richard-Köhn-Straße"
+latitude = 53.64635
+longitude = 9.79357
+
+[links]
+website = "http://www.fragshow.de/"
