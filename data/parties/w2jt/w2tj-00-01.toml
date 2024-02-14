@@ -1,0 +1,19 @@
+slug = "w2tj-00-01"
+title = "KJG-F-Lan-01"
+series_slug = "w2tj"
+organizer_entity = "KJG Froschhausen"
+start_on = 2005-03-11
+end_on = 2005-03-13
+seats = 72
+
+[location]
+name = "Maximilian-Kolbe-Haus"
+country_code = "de"
+city = "Seligenstadt - Froschhausen"
+zip_code = "63500"
+street = "Anne-Frank-Str. 2"
+latitude = 50.05504
+longitude = 8.94255
+
+[links]
+website = "https://w2tj.net/"
