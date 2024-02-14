@@ -9,6 +9,10 @@ slug = "fragshow"
 name = "FragShow"
 
 [[series]]
+slug = "gc"
+name = "Gamers' Congress"
+
+[[series]]
 slug = "insanity"
 name = "Insanity"
 
@@ -50,10 +54,6 @@ name = "SaarLAN"
 [[series]]
 slug = "slg-lan"
 name = "sLg | LAN"
-
-[[series]]
-slug = "the-activation"
-name = "The Activation"
 
 [[series]]
 slug = "unitedlans"
