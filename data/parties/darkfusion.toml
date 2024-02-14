@@ -1,0 +1,14 @@
+slug = "darkfusion"
+title = "DarkFusion"
+organizer_entity = ["DarkBreed e.V.", "TeraFusion"]
+start_on = 1999-10-08
+end_on = 1999-10-10
+seats = 310
+
+[location]
+country_code = "de"
+city = "Bad Schwalbach"
+zip_code = "65307"
+
+[links]
+website = { url = "http://terafusion.de/df99/welcome.html", offline = true }
