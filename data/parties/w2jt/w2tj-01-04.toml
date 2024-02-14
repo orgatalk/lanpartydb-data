@@ -1,0 +1,19 @@
+slug = "w2tj-01-04"
+title = "W2TJ v01.04"
+series_slug = "w2tj"
+organizer_entity = "KJG Froschhausen"
+start_on = 2007-01-12
+end_on = 2007-01-14
+seats = 220
+
+[location]
+name = "Bürgerhaus Froschhausen"
+country_code = "de"
+city = "Seligenstadt - Froschhausen"
+zip_code = "63500"
+street = "Hans-Gerstner-Straße 3a"
+latitude = 50.05430
+longitude = 8.93637
+
+[links]
+website = "https://w2tj.net/"
