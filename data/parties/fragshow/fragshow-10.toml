@@ -1,0 +1,19 @@
+slug = "fragshow-10"
+title = "FragShow 10"
+series_slug = "fragshow"
+organizer_entity = "Computerclub NetGen e.V."
+start_on = 1999-04-10
+end_on = 1999-04-11
+seats = 64
+
+[location]
+name = "Johannes-Brahms-Schule"
+country_code = "de"
+city = "Pinneberg"
+zip_code = "25421"
+street = "Fahltskamp 36"
+latitude = 53.65801
+longitude = 9.80450
+
+[links]
+website = "http://www.fragshow.de/"

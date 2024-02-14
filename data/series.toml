@@ -1,6 +1,10 @@
 # Please use alphabetical order.
 
 [[series]]
+slug = "fragshow"
+name = "FragShow"
+
+[[series]]
 slug = "isle-of-lan"
 name = "Isle of LAN"
 

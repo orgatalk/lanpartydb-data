@@ -1,0 +1,19 @@
+slug = "fragshow-17"
+title = "FragShow 17"
+series_slug = "fragshow"
+organizer_entity = "Computerclub NetGen e.V."
+start_on = 2000-11-18
+end_on = 2000-11-19
+seats = 350
+
+[location]
+name = "Rübekamphalle"
+country_code = "de"
+city = "Pinneberg"
+zip_code = "25421"
+street = "Rübekamp 13"
+latitude = 53.66049
+longitude = 9.79380
+
+[links]
+website = "http://www.fragshow.de/"
