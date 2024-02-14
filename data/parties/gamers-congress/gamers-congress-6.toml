@@ -1,10 +1,10 @@
-slug = "gamers-congress-8"
-title = "Gamers' Congress #8 DGF"
+slug = "gamers-congress-6"
+title = "Gamers' Congress #6"
 series_slug = "gamers-congress"
 organizer_entity = "LAN Foundation e.V."
-start_on = 2009-09-04
-end_on = 2009-09-04
-seats = 310
+start_on = 2008-06-20
+end_on = 2008-06-22
+seats = 325
 
 [location]
 name = "Stadthalle Dingolfing"
@@ -16,4 +16,4 @@ latitude = 48.629555071568994
 longitude = 12.501701481664558
 
 [links]
-website = "https://www.gamers-congress.de/party/4"
+website = "https://www.gamers-congress.de/party/3"

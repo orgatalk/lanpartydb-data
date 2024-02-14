@@ -1,10 +1,10 @@
-slug = "gamers-congress-7"
-title = "Gamers' Congress #7 JB-Vill"
+slug = "gamers-congress-11"
+title = "Gamers' Congress #11"
 series_slug = "gamers-congress"
 organizer_entity = "LAN Foundation e.V."
-start_on = 2009-03-13
-end_on = 2009-03-13
-seats = 138
+start_on = 2011-10-21
+end_on = 2011-10-23
+seats = 136
 
 [location]
 name = "Ehemaliges Kloster Johannesbrunn"
@@ -13,7 +13,7 @@ city = "Johannesbrunn"
 zip_code = "84175"
 street = "Klosterstr. 1"
 latitude = 48.47797230752822
-longitude =  12.462374774947447
+longitude = 12.462374774947447
 
 [links]
-website = "https://www.gamers-congress.de/party/5"
+website = "https://www.gamers-congress.de/party/9"
