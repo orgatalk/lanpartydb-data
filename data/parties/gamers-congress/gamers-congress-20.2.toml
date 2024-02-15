@@ -1,0 +1,19 @@
+slug = "gamers-congress-20.2"
+title = "Gamers Congress #20.2"
+series_slug = "gamers-congress"
+organizer_entity = "LAN Foundation e.V."
+start_on = 2023-09-29
+end_on = 2023-10-01
+seats = 150
+
+[location]
+name = "Ehemaliges Kloster Johannesbrunn"
+country_code = "de"
+city = "Johannesbrunn"
+zip_code = "84175"
+street = "Klosterstr. 1"
+latitude = 48.47797230752822
+longitude = 12.462374774947447
+
+[links]
+website = "https://www.gamers-congress.de/party/19"

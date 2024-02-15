@@ -1,0 +1,19 @@
+slug = "gamers-congress-6"
+title = "Gamers' Congress #6"
+series_slug = "gamers-congress"
+organizer_entity = "LAN Foundation e.V."
+start_on = 2008-06-20
+end_on = 2008-06-22
+seats = 325
+
+[location]
+name = "Stadthalle Dingolfing"
+country_code = "de"
+city = "Dingolfing"
+zip_code = "84130"
+street = "Dr.-Josef-Hastreiter-Str. 2"
+latitude = 48.629555071568994
+longitude = 12.501701481664558
+
+[links]
+website = "https://www.gamers-congress.de/party/3"

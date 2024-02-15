@@ -61,16 +61,19 @@ A party *must* have:
 * A start date, `start_on`. Format: `YYYY-MM-DD`, without surrounding
   double quotes.
 * An end date, `end_on`. Same format as `start_on`.
-* A `location` section; see below.
 
 A party *may* have:
 
 * A `series_slug`, *if* the party belongs to a series (see above).
 * An `organizer_entity`, if that is somewhat relevant, maybe because it
   significantly changed at some point. If its just "a bunch of people"
-  for the duration of the party, you can just leave it out.
+  for the duration of the party, you can just leave it out. Can be a
+  single string or an array of multiple strings.
 * A number of `seats`. This should be the number of seats the party
   actually offered, not the number of attendees.
+* `online = true`, *if* the party was online-only (e.g. during a
+  pandemic). In this case, the `location` section must not be provided.
+* A `location` section; see below.
 * A `links` section; see below.
 
 A location section *must* have:

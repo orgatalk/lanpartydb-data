@@ -1,0 +1,16 @@
+slug = "insanity-2"
+title = "Insanity #2"
+series_slug = "insanity"
+organizer_entity = "KickASS"
+start_on = 2004-08-27
+end_on = 2004-08-29
+seats = 50
+
+[location]
+name = "Sporthalle RC Hansa Dortmund"
+country_code = "de"
+city = "Dortmund"
+zip_code = "44147"
+street = "Westerholz 87"
+latitude = 51.53996
+longitude = 7.43489

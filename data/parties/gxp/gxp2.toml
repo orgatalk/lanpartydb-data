@@ -1,0 +1,18 @@
+slug = "gxp2"
+title = "gXp: Episode 2"
+series_slug = "gxp"
+start_on = 1999-07-30
+end_on = 1999-08-01
+seats = 700
+
+[location]
+name = "Stadthalle Hagen"
+country_code = "de"
+city = "Hagen"
+zip_code = "58093"
+street = "Wasserloses Tal 2"
+latitude = 51.35312
+longitude = 7.48465
+
+[links]
+website = "http://www.gxp.de/"

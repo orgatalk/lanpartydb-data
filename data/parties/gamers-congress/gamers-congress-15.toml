@@ -1,0 +1,19 @@
+slug = "gamers-congress-15"
+title = "Gamers' Congress #15"
+series_slug = "gamers-congress"
+organizer_entity = "LAN Foundation e.V."
+start_on = 2015-04-24
+end_on = 2015-04-26
+seats = 136
+
+[location]
+name = "Ehemaliges Kloster Johannesbrunn"
+country_code = "de"
+city = "Johannesbrunn"
+zip_code = "84175"
+street = "Klosterstr. 1"
+latitude = 48.47797230752822
+longitude = 12.462374774947447
+
+[links]
+website = "https://www.gamers-congress.de/party/13"

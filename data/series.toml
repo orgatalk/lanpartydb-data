@@ -13,6 +13,18 @@ slug = "fragshow"
 name = "FragShow"
 
 [[series]]
+slug = "gamers-congress"
+name = "Gamers' Congress"
+
+[[series]]
+slug = "gxp"
+name = "gXp"
+
+[[series]]
+slug = "insanity"
+name = "Insanity"
+
+[[series]]
 slug = "isle-of-lan"
 name = "Isle of LAN"
 
@@ -50,6 +62,10 @@ name = "SaarLAN"
 [[series]]
 slug = "slg-lan"
 name = "sLg | LAN"
+
+[[series]]
+slug = "the-activation"
+name = "The Activation"
 
 [[series]]
 slug = "unitedlans"
