@@ -1,0 +1,17 @@
+slug = "the-zenith"
+title = "The Zenith"
+start_on = 2004-09-24
+end_on = 2004-09-26
+seats = 1800
+
+[location]
+name = "Lokhalle Göttingen"
+country_code = "de"
+city = "Göttingen"
+zip_code = "37081"
+street = "Bahnhofsallee 1"
+latitude = 51.53679
+longitude = 9.92247
+
+[links]
+website = { url = "http://www.thezenith.de/", offline = true }
