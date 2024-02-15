@@ -7,7 +7,7 @@ end_on = 2006-01-29
 seats = 50
 
 [location]
-name = "Pfarrsaal St. Marien"
+name = "Gemeindezentrum St. Marien"
 country_code = "de"
 city = "Seligenstadt"
 zip_code = "63500"
