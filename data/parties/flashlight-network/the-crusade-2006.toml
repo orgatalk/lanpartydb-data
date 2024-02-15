@@ -1,0 +1,19 @@
+slug = "the-crusade-2006"
+title = "The Crusade 2006"
+series_slug = "flashlight-network"
+organizer_entity = "Flashlight-Network"
+start_on = 2006-01-27
+end_on = 2006-01-29
+seats = 50
+
+[location]
+name = "Gemeindezentrum St. Marien"
+country_code = "de"
+city = "Seligenstadt"
+zip_code = "63500"
+street = "Steinweg 25"
+latitude = 50.04696
+longitude = 8.96818
+
+[links]
+website = "http://www.flashlight-network.de/"

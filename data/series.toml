@@ -5,6 +5,10 @@ slug = "darkbreed"
 name = "DarkBreed"
 
 [[series]]
+slug = "flashlight-network"
+name = "Flashlight-Network"
+
+[[series]]
 slug = "fragshow"
 name = "FragShow"
 

@@ -1,0 +1,19 @@
+slug = "pfingstlan-2004"
+title = "Pfingstlan 2004"
+series_slug = "flashlight-network"
+organizer_entity = "Flashlight-Network"
+start_on = 2004-05-28
+end_on = 2004-05-30
+seats = 50
+
+[location]
+name = "Heimatbundhalle Seligenstadt"
+country_code = "de"
+city = "Seligenstadt"
+zip_code = "63500"
+street = "Am Eichwald 7"
+latitude = 50.05096
+longitude = 8.96384
+
+[links]
+website = "http://www.flashlight-network.de/"
