@@ -1,0 +1,17 @@
+slug = "gamers-gathering"
+title = "Gamers Gathering"
+start_on = 1999-12-10
+end_on = 1999-12-12
+seats = 1600
+
+[location]
+name = "Kraftzentrale"
+country_code = "de"
+city = "Duisburg"
+zip_code = "47137"
+street = "Emscherstraße 71"
+latitude = 51.47950
+longitude = 6.78200
+
+[links]
+website = { url = "http://www.gamers-gathering.de/", offline = true }
