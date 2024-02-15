@@ -1,0 +1,18 @@
+slug = "gxp3"
+title = "gXp3:arena"
+series_slug = "gxp"
+start_on = 2002-03-15
+end_on = 2002-03-17
+seats = 2042
+
+[location]
+name = "Lokhalle Göttingen"
+country_code = "de"
+city = "Göttingen"
+zip_code = "37081"
+street = "Bahnhofsallee 1"
+latitude = 51.53679
+longitude = 9.92247
+
+[links]
+website = "http://www.gxp.de/"

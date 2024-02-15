@@ -13,6 +13,10 @@ slug = "gamers-congress"
 name = "Gamers' Congress"
 
 [[series]]
+slug = "gxp"
+name = "gXp"
+
+[[series]]
 slug = "insanity"
 name = "Insanity"
 
