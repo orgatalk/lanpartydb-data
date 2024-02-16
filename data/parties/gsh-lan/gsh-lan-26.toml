@@ -1,0 +1,15 @@
+slug = "gsh-lan-26"
+title = "GSH #26"
+start_on = 2014-04-11
+end_on = 2014-04-13
+seats = 640
+
+[location]
+name = "Rudolf-Harbig-Halle & Sporthalle am Hespe"
+country_code = "de"
+city = "Garbsen"
+zip_code = "30827"
+street = "Ludwigstrasse 5"
+
+[links]
+website = "https://www.gsh-lan.com/"

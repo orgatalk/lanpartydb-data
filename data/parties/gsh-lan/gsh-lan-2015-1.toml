@@ -1,0 +1,15 @@
+slug = "gsh-lan-2015-1"
+title = "GSH 2015 #1"
+start_on = 2015-03-27
+end_on = 2015-03-29
+seats = 644
+
+[location]
+name = "Rudolf-Harbig-Halle & Sporthalle am Hespe"
+country_code = "de"
+city = "Garbsen"
+zip_code = "30827"
+street = "Ludwigstrasse 5"
+
+[links]
+website = "https://www.gsh-lan.com/party/?do=event&id=20"

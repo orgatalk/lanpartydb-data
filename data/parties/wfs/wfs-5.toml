@@ -1,0 +1,15 @@
+slug = "wfs-5"
+title = "Wildefingerspiele vol.5"
+start_on = 2006-08-11
+end_on = 2006-08-13
+seats = 146
+
+[location]
+name = "Haus der Jugend, Burgdorf"
+country_code = "de"
+city = "Burgdorf"
+zip_code = "31303"
+street = "Sorgenser Str. 30"
+
+[links]
+website = "https://www.gsh-lan.com/"

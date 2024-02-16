@@ -1,0 +1,15 @@
+slug = "gsh-lan-20"
+title = "GSH #20"
+start_on = 2011-04-29
+end_on = 2011-05-01
+seats = 464
+
+[location]
+name = "Rudolf-Harbig-Halle"
+country_code = "de"
+city = "Garbsen"
+zip_code = "30827"
+street = "Ludwigstrasse 5"
+
+[links]
+website = "https://www.gsh-lan.com/"
