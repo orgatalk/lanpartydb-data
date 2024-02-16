@@ -1,0 +1,15 @@
+slug = "gsh-lan-2016-2"
+title = "GSH 2016 #2"
+start_on = 2016-10-07
+end_on = 2016-10-09
+seats = 618
+
+[location]
+name = "Rudolf-Harbig-Halle & Geschwister-Scholl-Gymnasium"
+country_code = "de"
+city = "Garbsen"
+zip_code = "30827"
+street = "Ludwigstrasse 5"
+
+[links]
+website = "https://www.gsh-lan.com/party/?do=event&id=23"
