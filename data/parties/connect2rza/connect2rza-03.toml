@@ -1,0 +1,19 @@
+slug = "connect2rza-03"
+title = "connEcT2RZA #3"
+series_slug = "connect2rza"
+organizer_entity = "RZA Clan"
+start_on = 2005-10-21
+end_on = 2005-10-23
+seats = 240
+
+[location]
+name = "Mehrzweckhalle Ronneburg"
+country_code = "de"
+city = "Ronneburg"
+zip_code = "63549"
+street = "Tannenweg 9"
+latitude = 50.21897
+longitude = 9.04309
+
+[links]
+website = "http://www.connect2rza.de/"

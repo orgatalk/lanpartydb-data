@@ -1,6 +1,10 @@
 # Please use alphabetical order.
 
 [[series]]
+slug = "connect2rza"
+name = "connEcT2RZA"
+
+[[series]]
 slug = "darkbreed"
 name = "DarkBreed"
 
