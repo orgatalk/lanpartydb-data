@@ -1,0 +1,19 @@
+slug = "la-network-5"
+title = "LA-Network #5"
+series_slug = "la-network"
+organizer_entity = "LA-Network - André Gerstel"
+start_on = 2007-10-12
+end_on = 2007-10-14
+seats = 200
+
+[location]
+name = "Bornbachhalle"
+country_code = "de"
+city = "Heidenrod"
+zip_code = "65321"
+street = "Wiesbadener Str. 17"
+latitude = 50.21257
+longitude = 7.99760
+
+[links]
+website = "http://www.connect2rza.de/"
