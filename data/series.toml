@@ -13,6 +13,11 @@ slug = "gamers-congress"
 name = "Gamers' Congress"
 
 [[series]]
+slug = "gsh-lan"
+name = "GSH-LAN"
+alternative_names = ["GSH"]
+
+[[series]]
 slug = "gxp"
 name = "gXp"
 
@@ -71,3 +76,7 @@ name = "unitedLANs"
 slug = "w2tj"
 name = "W2tJ"
 alternative_names = ["Welcome 2 the Jungle"]
+
+[[series]]
+slug = "wildefingerspiele"
+name = "Wildefingerspiele"
