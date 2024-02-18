@@ -1,9 +1,19 @@
 name: Validate data files
 
 on:
+  # Run this workflow on push events to the main branch
   push:
+    branches:
+      - main
     paths:
       - 'data/**/*.toml'
+      - 'schemas/**/*.json'
+
+  # Run this workflow on pull request events. Will trigger for updates from forked repositories.
+  pull_request: 
+    paths: 
+      - 'data/**/*.toml'
+      - 'schemas/**/*.json'
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
