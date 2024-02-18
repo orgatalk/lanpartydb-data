@@ -1,8 +1,8 @@
-slug = "wfs-5"
-title = "Wildefingerspiele vol.5"
-start_on = 2006-08-11
-end_on = 2006-08-13
-seats = 146
+slug = "wildefingerspiele-4"
+title = "Wildefingerspiele vol.4"
+start_on = 2006-01-20
+end_on = 2006-01-22
+seats = 219
 
 [location]
 name = "Haus der Jugend, Burgdorf"
