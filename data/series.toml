@@ -34,6 +34,10 @@ slug = "junien"
 name = "['ju:nien]"
 
 [[series]]
+slug = "knastlan"
+name = "KnastLan"
+
+[[series]]
 slug = "lanresort"
 name = "LANresort"
 
