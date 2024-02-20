@@ -80,3 +80,8 @@ alternative_names = ["Welcome 2 the Jungle"]
 [[series]]
 slug = "wildefingerspiele"
 name = "Wildefingerspiele"
+
+[[series]]
+slug = "gvlan"
+name = "genial verpLANt"
+alternative_names = ["total verpLANt"]

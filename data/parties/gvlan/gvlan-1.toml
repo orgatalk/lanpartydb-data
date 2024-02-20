@@ -1,0 +1,17 @@
+slug = "gvlan-1"
+title = "genial verpLANt #10"
+series_slug = "gvlan"
+organizer_entity = "total verpLANt e.V."
+start_on = 2011-04-15
+end_on = 2011-04-17
+seats = 200
+
+[location]
+name = "Großsporthalle der Stadt Brake"
+country_code = "de"
+city = "Brake"
+zip_code = "26919"
+street = "Philosophenweg 8"
+
+[links]
+website = "https://www.total-verplant.de/turnier/?event_id=1&type=full"
