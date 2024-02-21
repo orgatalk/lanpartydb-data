@@ -46,6 +46,10 @@ slug = "klopperhoppel"
 name = "Klopperhoppel"
 
 [[series]]
+slug = "knastlan"
+name = "KnastLan"
+
+[[series]]
 slug = "lanresort"
 name = "LANresort"
 
