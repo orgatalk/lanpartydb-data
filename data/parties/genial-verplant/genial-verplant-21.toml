@@ -1,0 +1,17 @@
+slug = "genial-verplant-21"
+title = "genial verpLANt #27"
+series_slug = "genial-verplant"
+organizer_entity = "total verpLANt e.V."
+start_on = 2019-10-11
+end_on = 2019-10-13
+seats = 200
+
+[location]
+name = "Großsporthalle der Stadt Brake"
+country_code = "de"
+city = "Brake"
+zip_code = "26919"
+street = "Philosophenweg 8"
+
+[links]
+website = "https://www.total-verplant.de/turnier/?event_id=21&type=full"

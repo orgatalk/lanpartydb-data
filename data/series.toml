@@ -21,6 +21,11 @@ slug = "gamers-congress"
 name = "Gamers' Congress"
 
 [[series]]
+slug = "genial-verplant"
+name = "genial verpLANt"
+alternative_names = ["total verpLANt"]
+
+[[series]]
 slug = "gsh-lan"
 name = "GSH-LAN"
 alternative_names = ["GSH"]

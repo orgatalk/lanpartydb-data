@@ -1,0 +1,12 @@
+slug = "genial-verplant-8"
+title = "Verplant Cups"
+series_slug = "genial-verplant"
+organizer_entity = "total verpLANt e.V."
+start_on = 2016-01-09
+end_on = 2016-01-10
+seats = 80
+
+[location]
+
+[links]
+website = "https://www.total-verplant.de/turnier/?event_id=8&type=full"
