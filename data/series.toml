@@ -13,6 +13,11 @@ slug = "gamers-congress"
 name = "Gamers' Congress"
 
 [[series]]
+slug = "genial-verplant"
+name = "genial verpLANt"
+alternative_names = ["total verpLANt"]
+
+[[series]]
 slug = "gsh-lan"
 name = "GSH-LAN"
 alternative_names = ["GSH"]
@@ -80,8 +85,3 @@ alternative_names = ["Welcome 2 the Jungle"]
 [[series]]
 slug = "wildefingerspiele"
 name = "Wildefingerspiele"
-
-[[series]]
-slug = "genial-verplant"
-name = "genial verpLANt"
-alternative_names = ["total verpLANt"]
