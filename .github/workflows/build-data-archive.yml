@@ -21,14 +21,14 @@ jobs:
       - name: Create path
         run: mkdir dist
 
-      - name: Create data archive
-        run: tar cJf dist/data.tar.xz data/
+      - name: Write commit hash to file
+        run: git rev-parse --short HEAD > data/commithash.txt
 
       - name: Write timestamp to file
-        run: date --iso-8601=seconds --utc > dist/timestamp.txt
+        run: date --iso-8601=seconds --utc > data/timestamp.txt
 
-      - name: Write commit hash to file
-        run: git rev-parse --short HEAD > dist/commithash.txt
+      - name: Create archive
+        run: tar cJf data.tar.xz data/
 
       - name: Configure Git user
         run: |
@@ -40,6 +40,6 @@ jobs:
 
       - name: Add, commit, and push files
         run: |
-          git add dist/
-          git commit -m 'Add distribution'
+          git add data.tar.xz
+          git commit -m 'Add data archive'
           git push --force origin dist
