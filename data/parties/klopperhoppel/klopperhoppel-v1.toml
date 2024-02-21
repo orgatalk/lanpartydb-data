@@ -1,0 +1,19 @@
+slug = "klopperhoppel-v1"
+title = "Klopperhoppel v1.0"
+series_slug = "klopperhoppel"
+organizer_entity = "Stephan Schaffer - Gamienator"
+start_on = 2014-05-24
+end_on = 2014-05-26
+seats = 56
+
+[location]
+name = "Bürgerzentrum Karben - Clubraum Keller"
+country_code = "de"
+city = "Karben"
+zip_code = "61184"
+street = "Rathausplatz 1"
+latitude = 50.23393
+longitude = 8.76262
+
+[links]
+website = "http://www.klopperhoppel.de/"

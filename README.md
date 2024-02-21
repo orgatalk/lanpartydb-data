@@ -1,6 +1,6 @@
-# The OrgaTalk LANparty Database
+# The OrgaTalk LAN Party Database
 
-The **OrgaTalk LANparty Database** is an
+The **OrgaTalk LAN Party Database** is an
 [OrgaTalk](https://www.orgatalk.de/board/) project with the goal to
 preserve (a part of) the history of LAN parties.
 
@@ -46,7 +46,7 @@ See [`CONTRIBUTING.md`](./CONTRIBUTING.md) for details.
 
 ## License
 
-The OrgaTalk LANparty Database is made available under the *Public
+The OrgaTalk LAN Party Database is made available under the *Public
 Domain Dedication and License (PDDL) v1.0*.
 
 A copy of the license is included as a separate file,
@@ -58,6 +58,6 @@ http://opendatacommons.org/licenses/pddl/1.0/
 
 ## Inception
 
-The OrgaTalk LANparty Database was initiated by Jochen Kupperschmidt in
+The OrgaTalk LAN Party Database was initiated by Jochen Kupperschmidt in
 January 2024 after thinking about creating something like this for a
 long time.
