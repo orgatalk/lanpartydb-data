@@ -30,10 +30,15 @@ jobs:
       - name: Write commit hash to file
         run: git rev-parse --short HEAD > dist/commithash.txt
 
+      - name: Configure Git user
+        run: |
+          git config user.name "workflow"
+          git config user.email "workflow@invalid"
+
       - name: Create new branch
         run: git switch --orphan dist
 
-      - name: Add files
+      - name: Add, commit, and push files
         run: |
           git add dist/
           git commit -m 'Add distribution'
