@@ -1,0 +1,19 @@
+slug = "flashlight-after-xmas"
+title = "After Xmas-LAN"
+series_slug = "flashlight-network"
+organizer_entity = "Flashlight-Network"
+start_on = 2002-12-27
+end_on = 2002-12-29
+seats = 50
+
+[location]
+name = "Vereinsheim TTC Hainstadt"
+country_code = "de"
+city = "Hainburg"
+zip_code = "63512"
+street = "Lessingstraße 1"
+latitude = 50.08202
+longitude = 8.93449
+
+[links]
+website = "http://www.flashlight-network.de/"
