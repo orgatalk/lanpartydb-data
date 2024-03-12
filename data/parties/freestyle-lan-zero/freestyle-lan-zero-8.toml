@@ -1,0 +1,19 @@
+slug = "freestyle-lan-zero-8"
+title = "Freestyle-LAN Zero 8 - 10 Years of LAN-Gaming History"
+series_slug = "freestyle-lan-zero"
+organizer_entity = "KRRU"
+start_on = 2013-10-31
+end_on = 2013-11-03
+seats = 120
+
+[location]
+name = "Kulturzentrum Kremsmünster"
+country_code = "at"
+city = "Kremsmünster"
+zip_code = "4550"
+street = "Josef-Assam-Straße 1"
+latitude = 48.05135
+longitude = 14.13253
+
+[links]
+website = "https://www.krru.at/content/events"

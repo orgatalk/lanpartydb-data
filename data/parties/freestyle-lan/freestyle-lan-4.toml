@@ -1,0 +1,19 @@
+slug = "freestyle-lan-4"
+title = "Freestyle-LAN 4"
+series_slug = "freestyle-lan"
+organizer_entity = "KRRU"
+start_on = 2005-06-14
+end_on = 2006-06-16
+seats = 310
+
+[location]
+name = "Bezirkssporthalle Kremsmünster"
+country_code = "at"
+city = "Kremsmünster"
+zip_code = "4550"
+street = "Gablonzerstraße 13"
+latitude = 48.04993
+longitude = 14.12830
+
+[links]
+website = "https://www.krru.at/content/events"

@@ -1,0 +1,19 @@
+slug = "freestyle-lan-7"
+title = "Freestyle-LAN 7 - Are you OnL@N?"
+series_slug = "freestyle-lan"
+organizer_entity = "KRRU"
+start_on = 2007-10-12
+end_on = 2007-10-14
+seats = 300
+
+[location]
+name = "Bezirkssporthalle Kremsmünster"
+country_code = "at"
+city = "Kremsmünster"
+zip_code = "4550"
+street = "Gablonzerstraße 13"
+latitude = 48.04993
+longitude = 14.12830
+
+[links]
+website = "https://www.krru.at/content/events"

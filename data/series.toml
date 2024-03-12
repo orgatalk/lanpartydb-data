@@ -21,6 +21,14 @@ slug = "fragshow"
 name = "FragShow"
 
 [[series]]
+slug = "freestyle-lan"
+name = "Freestyle-LAN"
+
+[[series]]
+slug = "freestyle-lan-zero"
+name = "Freestyle-LAN Zero"
+
+[[series]]
 slug = "gamers-congress"
 name = "Gamers' Congress"
 

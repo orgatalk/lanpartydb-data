@@ -1,0 +1,19 @@
+slug = "freestyle-lan-zero-10"
+title = "Freestyle-LAN Zero 10 - Back to the Future"
+series_slug = "freestyle-lan-zero"
+organizer_entity = "KRRU"
+start_on = 2015-10-23
+end_on = 2015-10-25
+seats = 110
+
+[location]
+name = "Kulturzentrum Kremsmünster"
+country_code = "at"
+city = "Kremsmünster"
+zip_code = "4550"
+street = "Josef-Assam-Straße 1"
+latitude = 48.05135
+longitude = 14.13253
+
+[links]
+website = "https://www.krru.at/content/events"
