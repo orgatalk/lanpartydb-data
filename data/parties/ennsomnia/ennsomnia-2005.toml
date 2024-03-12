@@ -1,0 +1,19 @@
+slug = "ennsomnia-2005"
+title = "Ennsomnia 2005"
+series_slug = "ennsomnia"
+organizer_entity = "KRRU, VCC und meet@internet"
+start_on = 2007-04-27
+end_on = 2007-04-29
+seats = 350
+
+[location]
+name = "Stadthalle Enns"
+country_code = "at"
+city = "Enns"
+zip_code = "4470"
+street = "Josef Hafner-Straße 2"
+latitude = 48.21730
+longitude = 14.47766
+
+[links]
+website = "https://www.krru.at/content/events"

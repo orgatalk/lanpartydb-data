@@ -13,6 +13,10 @@ slug = "darkbreed"
 name = "DarkBreed"
 
 [[series]]
+slug = "ennsomnia"
+name = "Ennsomnia"
+
+[[series]]
 slug = "flashlight-network"
 name = "Flashlight-Network"
 
