@@ -1,0 +1,19 @@
+slug = "freestyle-lan-6"
+title = "Freestyle-LAN 6 - Gespielt wird immer"
+series_slug = "freestyle-lan"
+organizer_entity = "KRRU"
+start_on = 2007-04-27
+end_on = 2007-04-29
+seats = 140
+
+[location]
+name = "Kulturzentrum Kremsmünster"
+country_code = "at"
+city = "Kremsmünster"
+zip_code = "4550"
+street = "Josef-Assam-Straße 1"
+latitude = 48.05135
+longitude = 14.13253
+
+[links]
+website = "https://www.krru.at/content/events"

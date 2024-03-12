@@ -1,0 +1,19 @@
+slug = "freestyle-lan-1"
+title = "Freestyle-LAN"
+series_slug = "freestyle-lan"
+organizer_entity = "KRRU"
+start_on = 2003-12-26
+end_on = 2003-12-28
+seats = 90
+
+[location]
+name = "Kulturzentrum Kremsmünster"
+country_code = "at"
+city = "Kremsmünster"
+zip_code = "4550"
+street = "Josef-Assam-Straße 1"
+latitude = 48.05135
+longitude = 14.13253
+
+[links]
+website = "https://www.krru.at/content/events"

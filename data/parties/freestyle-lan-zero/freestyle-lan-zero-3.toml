@@ -1,0 +1,19 @@
+slug = "freestyle-lan-zero-3"
+title = "Freestyle-LAN Zero Three (Sheets in the Wind)"
+series_slug = "freestyle-lan-zero"
+organizer_entity = "KRRU"
+start_on = 2009-05-29
+end_on = 2009-05-31
+seats = 100
+
+[location]
+name = "Kulturzentrum Kremsmünster"
+country_code = "at"
+city = "Kremsmünster"
+zip_code = "4550"
+street = "Josef-Assam-Straße 1"
+latitude = 48.05135
+longitude = 14.13253
+
+[links]
+website = "https://www.krru.at/content/events"
