@@ -1,0 +1,18 @@
+slug = "dagor-net-6"
+title = "Dagor.net - Drittes Zeitalter"
+organizer_entity = "dagor.net und KRRU"
+start_on = 2006-09-22
+end_on = 2006-09-24
+seats = 280
+
+[location]
+name = "VAZ St. Pölten"
+country_code = "at"
+city = "St. Pölten"
+zip_code = "3100"
+street = "Kelsengasse 9"
+latitude = 48.17788
+longitude = 15.62287
+
+[links]
+website = "https://www.krru.at/content/events"
