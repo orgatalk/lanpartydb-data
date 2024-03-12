@@ -1,0 +1,19 @@
+slug = "ennsomnia-2002"
+title = "Ennsomnia 2002"
+series_slug = "ennsomnia"
+organizer_entity = "VCC und KRRU"
+start_on = 2002-03-29
+end_on = 2002-03-31
+seats = 280
+
+[location]
+name = "Stadthalle Enns"
+country_code = "at"
+city = "Enns"
+zip_code = "4470"
+street = "Josef Hafner-Straße 2"
+latitude = 48.21730
+longitude = 14.47766
+
+[links]
+website = "https://www.krru.at/content/events"

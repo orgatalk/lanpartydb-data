@@ -1,0 +1,19 @@
+slug = "ennsomnia-2003"
+title = "Ennsomnia 2003 Next Generation"
+series_slug = "ennsomnia"
+organizer_entity = "VCC und KRRU"
+start_on = 2003-04-18
+end_on = 2003-04-20
+seats = 250
+
+[location]
+name = "Stadthalle Enns"
+country_code = "at"
+city = "Enns"
+zip_code = "4470"
+street = "Josef Hafner-Straße 2"
+latitude = 48.21730
+longitude = 14.47766
+
+[links]
+website = "https://www.krru.at/content/events"

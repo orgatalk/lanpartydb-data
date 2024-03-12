@@ -1,0 +1,19 @@
+slug = "ennsomnia-2001"
+title = "Ennsomnia 2001"
+series_slug = "ennsomnia"
+organizer_entity = "FKK und KRRU"
+start_on = 2001-04-12
+end_on = 2001-04-15
+seats = 260
+
+[location]
+name = "Stadthalle Enns"
+country_code = "at"
+city = "Enns"
+zip_code = "4470"
+street = "Josef Hafner-Straße 2"
+latitude = 48.21730
+longitude = 14.47766
+
+[links]
+website = "https://www.krru.at/content/events"
