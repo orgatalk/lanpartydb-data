@@ -1,0 +1,19 @@
+slug = "leonding-lan-2003"
+title = "LeondingLAN 2003"
+series_slug = "leonding-lan"
+organizer_entity = "VCC und KRRU"
+start_on = 2003-10-03
+end_on = 2003-10-05
+seats = 400
+
+[location]
+name = "Sporthalle Leonding"
+country_code = "at"
+city = "Leonding"
+zip_code = "4060"
+street = "Ehrenfellner-Straße 9"
+latitude = 48.26681
+longitude = 14.25569
+
+[links]
+website = "https://www.krru.at/content/events"
