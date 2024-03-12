@@ -1,0 +1,19 @@
+slug = "heilige-3-camper-3"
+title = "Heilige 3 Camper III"
+series_slug = "heilige-3-camper"
+organizer_entity = "KRRU"
+start_on = 2005-01-07
+end_on = 2005-01-09
+seats = 170
+
+[location]
+name = "Technologiezentrum Perg"
+country_code = "at"
+city = "Perg"
+zip_code = "4320"
+street = "Technologiepark 17"
+latitude = 48.24576
+longitude = 14.61981
+
+[links]
+website = "https://www.krru.at/content/events"

@@ -47,6 +47,10 @@ slug = "gxp"
 name = "gXp"
 
 [[series]]
+slug = "heilige-3-campers"
+name = "Heilige 3 Campers"
+
+[[series]]
 slug = "insanity"
 name = "Insanity"
 
