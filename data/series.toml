@@ -1,6 +1,10 @@
 # Please use alphabetical order.
 
 [[series]]
+slug = "campers-ascension"
+name = "Campers Ascension"
+
+[[series]]
 slug = "connect2rza"
 name = "connEcT2RZA"
 
@@ -9,12 +13,24 @@ slug = "darkbreed"
 name = "DarkBreed"
 
 [[series]]
+slug = "ennsomnia"
+name = "Ennsomnia"
+
+[[series]]
 slug = "flashlight-network"
 name = "Flashlight-Network"
 
 [[series]]
 slug = "fragshow"
 name = "FragShow"
+
+[[series]]
+slug = "freestyle-lan"
+name = "Freestyle-LAN"
+
+[[series]]
+slug = "freestyle-lan-zero"
+name = "Freestyle-LAN Zero"
 
 [[series]]
 slug = "gamers-congress"
@@ -33,6 +49,10 @@ alternative_names = ["GSH"]
 [[series]]
 slug = "gxp"
 name = "gXp"
+
+[[series]]
+slug = "heilige-3-campers"
+name = "Heilige 3 Campers"
 
 [[series]]
 slug = "insanity"
@@ -62,6 +82,10 @@ name = "LANresort"
 slug = "lan-team-invite"
 name = "LAN-Team - Invite"
 alternative_names = ["LAN-Team - Invite Only"]
+
+[[series]]
+slug = "leonding-lan"
+name = "LeondingLAN"
 
 [[series]]
 slug = "max"
