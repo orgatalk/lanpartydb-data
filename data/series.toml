@@ -92,6 +92,10 @@ name = "LAN-Team - Invite"
 alternative_names = ["LAN-Team - Invite Only"]
 
 [[series]]
+slug = "leonding-lan"
+name = "LeondingLAN"
+
+[[series]]
 slug = "max"
 name = "Max"
 
