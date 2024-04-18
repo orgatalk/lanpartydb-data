@@ -1,0 +1,19 @@
+slug = "convention-x-treme-16"
+title = "Convention-X-Treme 16: Armageddon"
+series_slug = "convention-x-treme"
+organizer_entity = "Computerfreunde Karlsdorf-Neuthard e.V."
+start_on = 2012-06-29
+end_on = 2012-07-01
+seats = 684
+
+[location]
+name = "Icehouse Eppelheim"
+country_code = "de"
+city = "Eppelheim"
+zip_code = "69214"
+street = "Rudolf-Diesel-Straße 20"
+latitude = 49.39571
+longitude = 8.63612
+
+[links]
+website = "https://www.convention-x-treme.de"

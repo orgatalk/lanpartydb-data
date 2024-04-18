@@ -5,6 +5,10 @@ slug = "connect2rza"
 name = "connEcT2RZA"
 
 [[series]]
+slug = "convention-x-treme"
+name = "Convention-X-Treme"
+
+[[series]]
 slug = "darkbreed"
 name = "DarkBreed"
 
