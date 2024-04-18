@@ -1,0 +1,16 @@
+slug = "wildefingerspiele-7"
+title = "Wildefingerspiele Vol.7 - Half Evil"
+series_slug = "wildefingerspiele"
+start_on = 2007-08-10
+end_on = 2007-08-12
+seats = 208
+
+[location]
+name = "Haus der Jugend, Burgdorf"
+country_code = "de"
+city = "Burgdorf"
+zip_code = "31303"
+street = "Sorgenser Str. 30"
+
+[links]
+website = "https://www.gsh-lan.com/"

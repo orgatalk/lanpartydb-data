@@ -1,8 +1,16 @@
 # Please use alphabetical order.
 
 [[series]]
+slug = "connect2rza"
+name = "connEcT2RZA"
+
+[[series]]
 slug = "darkbreed"
 name = "DarkBreed"
+
+[[series]]
+slug = "flashlight-network"
+name = "Flashlight-Network"
 
 [[series]]
 slug = "fragshow"
@@ -11,6 +19,16 @@ name = "FragShow"
 [[series]]
 slug = "gamers-congress"
 name = "Gamers' Congress"
+
+[[series]]
+slug = "genial-verplant"
+name = "genial verpLANt"
+alternative_names = ["total verpLANt"]
+
+[[series]]
+slug = "gsh-lan"
+name = "GSH-LAN"
+alternative_names = ["GSH"]
 
 [[series]]
 slug = "gxp"
@@ -27,6 +45,14 @@ name = "Isle of LAN"
 [[series]]
 slug = "junien"
 name = "['ju:nien]"
+
+[[series]]
+slug = "klopperhoppel"
+name = "Klopperhoppel"
+
+[[series]]
+slug = "knastlan"
+name = "KnastLan"
 
 [[series]]
 slug = "la-network"
@@ -75,3 +101,7 @@ name = "unitedLANs"
 slug = "w2tj"
 name = "W2tJ"
 alternative_names = ["Welcome 2 the Jungle"]
+
+[[series]]
+slug = "wildefingerspiele"
+name = "Wildefingerspiele"

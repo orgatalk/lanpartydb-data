@@ -1,0 +1,17 @@
+slug = "genial-verplant-14"
+title = "genial verpLANt #21"
+series_slug = "genial-verplant"
+organizer_entity = "total verpLANt e.V."
+start_on = 2016-10-07
+end_on = 2016-10-09
+seats = 200
+
+[location]
+name = "Großsporthalle der Stadt Brake"
+country_code = "de"
+city = "Brake"
+zip_code = "26919"
+street = "Philosophenweg 8"
+
+[links]
+website = "https://www.total-verplant.de/turnier/?event_id=14&type=full"

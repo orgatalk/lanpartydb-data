@@ -1,0 +1,16 @@
+slug = "wildefingerspiele-6"
+title = "Wildefingerspiele pres. BmL"
+series_slug = "wildefingerspiele"
+start_on = 2007-02-02
+end_on = 2007-02-04
+seats = 72
+
+[location]
+name = "Haus der Jugend, Burgdorf"
+country_code = "de"
+city = "Burgdorf"
+zip_code = "31303"
+street = "Sorgenser Str. 30"
+
+[links]
+website = "https://www.gsh-lan.com/"

@@ -1,0 +1,16 @@
+slug = "gsh-lan-21"
+title = "GSH #21"
+series_slug = "gsh-lan"
+start_on = 2011-10-21
+end_on = 2011-10-23
+seats = 576
+
+[location]
+name = "Rudolf-Harbig-Halle & Sporthalle am Hespe"
+country_code = "de"
+city = "Garbsen"
+zip_code = "30827"
+street = "Ludwigstraße 5"
+
+[links]
+website = "https://www.gsh-lan.com/"

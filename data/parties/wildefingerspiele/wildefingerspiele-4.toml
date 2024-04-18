@@ -1,0 +1,16 @@
+slug = "wildefingerspiele-4"
+title = "Wildefingerspiele vol.4"
+series_slug = "wildefingerspiele"
+start_on = 2006-01-20
+end_on = 2006-01-22
+seats = 219
+
+[location]
+name = "Haus der Jugend, Burgdorf"
+country_code = "de"
+city = "Burgdorf"
+zip_code = "31303"
+street = "Sorgenser Str. 30"
+
+[links]
+website = "https://www.gsh-lan.com/"

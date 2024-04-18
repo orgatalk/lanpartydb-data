@@ -1,0 +1,17 @@
+slug = "genial-verplant-2"
+title = "genial verpLANt #9"
+series_slug = "genial-verplant"
+organizer_entity = "total verpLANt e.V."
+start_on = 2010-10-08
+end_on = 2010-10-10
+seats = 222
+
+[location]
+name = "Großsporthalle der Stadt Brake"
+country_code = "de"
+city = "Brake"
+zip_code = "26919"
+street = "Philosophenweg 8"
+
+[links]
+website = "https://www.total-verplant.de/turnier/?event_id=2&type=full"

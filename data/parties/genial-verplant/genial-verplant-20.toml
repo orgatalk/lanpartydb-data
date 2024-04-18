@@ -1,0 +1,17 @@
+slug = "genial-verplant-20"
+title = "genial verpLANt #26"
+series_slug = "genial-verplant"
+organizer_entity = "total verpLANt e.V."
+start_on = 2019-04-12
+end_on = 2019-04-14
+seats = 200
+
+[location]
+name = "Großsporthalle der Stadt Brake"
+country_code = "de"
+city = "Brake"
+zip_code = "26919"
+street = "Philosophenweg 8"
+
+[links]
+website = "https://www.total-verplant.de/turnier/?event_id=20&type=full"

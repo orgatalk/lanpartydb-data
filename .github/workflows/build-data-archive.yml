@@ -1,0 +1,42 @@
+name: Build data archive
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'data/**/*.toml'
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Write commit hash to file
+        run: git rev-parse --short HEAD > data/commithash.txt
+
+      - name: Write timestamp to file
+        run: date --iso-8601=seconds --utc > data/timestamp.txt
+
+      - name: Create archive
+        run: tar cJf data.tar.xz data/
+
+      - name: Configure Git user
+        run: |
+          git config user.name "workflow"
+          git config user.email "workflow@invalid"
+
+      - name: Create new branch
+        run: git switch --orphan dist
+
+      - name: Add, commit, and push files
+        run: |
+          git add data.tar.xz
+          git commit -m 'Add data archive'
+          git push --force origin dist
