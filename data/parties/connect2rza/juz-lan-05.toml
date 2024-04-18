@@ -1,0 +1,19 @@
+slug = "juz-lan-05"
+title = "JUZ LAN #5"
+series_slug = "connect2rza"
+organizer_entity = "RZA Clan"
+start_on = 2002-03-22
+end_on = 2001-03-23
+seats = 45
+
+[location]
+name = "Mehrzweckraum Ravolzhausen"
+country_code = "de"
+city = "Neuberg"
+zip_code = "63543"
+street = "Schulstraße"
+latitude = 50.19630
+longitude = 8.98866
+
+[links]
+website = "http://www.connect2rza.de/"
