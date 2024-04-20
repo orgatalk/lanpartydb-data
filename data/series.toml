@@ -55,6 +55,10 @@ slug = "knastlan"
 name = "KnastLan"
 
 [[series]]
+slug = "la-network"
+name = "LA-Network"
+
+[[series]]
 slug = "lanresort"
 name = "LANresort"
 

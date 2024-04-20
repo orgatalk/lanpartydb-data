@@ -1,0 +1,19 @@
+slug = "la-network-3"
+title = "LA-Network #3"
+series_slug = "la-network"
+organizer_entity = "LA-Network - André Gerstel"
+start_on = 2006-04-07
+end_on = 2006-04-09
+seats = 150
+
+[location]
+name = "Bornbachhalle"
+country_code = "de"
+city = "Heidenrod"
+zip_code = "65321"
+street = "Wiesbadener Str. 17"
+latitude = 50.21257
+longitude = 7.99760
+
+[links]
+website = "http://www.la-network.de/"
