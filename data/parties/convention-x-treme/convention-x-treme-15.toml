@@ -1,0 +1,19 @@
+slug = "convention-x-treme-15"
+title = "Convention-X-Treme 15: Arena"
+series_slug = "convention-x-treme"
+organizer_entity = "Computerfreunde Karlsdorf-Neuthard e.V."
+start_on = 2011-05-27
+end_on = 2011-05-29
+seats = 608
+
+[location]
+name = "Icehouse Eppelheim"
+country_code = "de"
+city = "Eppelheim"
+zip_code = "69214"
+street = "Rudolf-Diesel-Straße 20"
+latitude = 49.39571
+longitude = 8.63612
+
+[links]
+website = "https://www.convention-x-treme.de"

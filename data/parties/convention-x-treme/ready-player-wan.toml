@@ -1,0 +1,12 @@
+slug = "ready-player-wan"
+title = "Ready Player WAN"
+series_slug = "convention-x-treme"
+organizer_entity = "Computerfreunde Karlsdorf-Neuthard e.V."
+start_on = 2021-04-02
+end_on = 2021-04-04
+
+[location]
+name = "Online due Covid-19 pandemic"
+
+[links]
+website = "https://www.convention-x-treme.de"

@@ -1,0 +1,19 @@
+slug = "convention-x-treme-20"
+title = "Convention-X-Treme 20: Jubiläum"
+series_slug = "convention-x-treme"
+organizer_entity = "Computerfreunde Karlsdorf-Neuthard e.V."
+start_on = 2016-04-15
+end_on = 2016-04-17
+seats = 400
+
+[location]
+name = "Wagbachhalle"
+country_code = "de"
+city = "Waghäusel"
+zip_code = "68753"
+street = "Seppl-Herberger-Ring 6"
+latitude = 49.23051
+longitude = 8.52780
+
+[links]
+website = "https://www.convention-x-treme.de"

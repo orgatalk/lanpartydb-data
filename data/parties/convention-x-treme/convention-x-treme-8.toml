@@ -1,0 +1,19 @@
+slug = "convention-x-treme-8"
+title = "Convention-X-Treme 8: Summernights"
+series_slug = "convention-x-treme"
+organizer_entity = "Computerfreunde Karlsdorf-Neuthard e.V."
+start_on = 2006-08-04
+end_on = 2006-08-06
+seats = 432
+
+[location]
+name = "Altenbürghalle"
+country_code = "de"
+city = "Karlsdorf-Neuthard"
+zip_code = "76689"
+street = "Altenbürgzentrum 1"
+latitude = 49.13116
+longitude = 8.53391
+
+[links]
+website = "https://www.convention-x-treme.de"

@@ -1,0 +1,19 @@
+slug = "convention-x-treme-1"
+title = "Convention-X-Treme"
+series_slug = "convention-x-treme"
+organizer_entity = "Computerfreunde Karlsdorf-Neuthard e.V."
+start_on = 2002-10-04
+end_on = 2002-10-06
+seats = 130
+
+[location]
+name = "Bruchbühlhalle"
+country_code = "de"
+city = "Karlsdorf-Neuthard"
+zip_code = "76689"
+street = "Bruchbühlweg 5"
+latitude = 49.12903
+longitude = 8.51984
+
+[links]
+website = "https://www.convention-x-treme.de"

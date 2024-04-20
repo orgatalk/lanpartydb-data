@@ -1,0 +1,19 @@
+slug = "convention-x-treme-14"
+title = "Convention-X-Treme 14: Dark Fortress"
+series_slug = "convention-x-treme"
+organizer_entity = "Computerfreunde Karlsdorf-Neuthard e.V."
+start_on = 2010-06-25
+end_on = 2010-06-27
+seats = 600
+
+[location]
+name = "Eishalle Wiesloch"
+country_code = "de"
+city = "Wiesloch"
+zip_code = "69168"
+street = "Parkstraße 1"
+latitude = 49.29608
+longitude = 8.69064
+
+[links]
+website = "https://www.convention-x-treme.de"
