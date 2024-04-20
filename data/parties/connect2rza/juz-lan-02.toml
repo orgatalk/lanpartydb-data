@@ -1,0 +1,19 @@
+slug = "juz-lan-02"
+title = "JUZ LAN #2"
+series_slug = "connect2rza"
+organizer_entity = "RZA Clan"
+start_on = 2001-06-20
+end_on = 2001-06-21
+seats = 20
+
+[location]
+name = "KJZ Neuberg"
+country_code = "de"
+city = "Neuberg"
+zip_code = "63543"
+street = "Hohensteinstr. 7"
+latitude = 50.19143
+longitude = 8.99468
+
+[links]
+website = "http://www.connect2rza.de/"
