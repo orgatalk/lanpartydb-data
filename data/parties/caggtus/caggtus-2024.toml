@@ -1,0 +1,19 @@
+slug = "caggtus-2024"
+title = "CAGGTUS 2024"
+series_slug = "caggtus"
+organizer_entity = "Leipziger Messe GmbH"
+start_on = 2024-04-04
+end_on = 2024-04-07
+seats = 1880
+
+[location]
+name = "Leipziger Messe"
+country_code = "de"
+city = "Leipzig"
+zip_code = "04356"
+street = "Messe-Allee 1"
+latitude = 51.396539
+longitude = 12.395663
+
+[links]
+website = "https://www.caggtus.de/"
