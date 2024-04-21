@@ -17,6 +17,10 @@ slug = "darkbreed"
 name = "DarkBreed"
 
 [[series]]
+slug = "dreamhack-leipzig"
+name = "DreamHack Leipzig"
+
+[[series]]
 slug = "ennsomnia"
 name = "Ennsomnia"
 

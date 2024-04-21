@@ -1,0 +1,19 @@
+slug = "dreamhack-leipzig-2017"
+title = "DreamHack Leipzig 2017"
+series_slug = "dreamhack-leipzig"
+organizer_entity = "Leipziger Messe GmbH"
+start_on = 2017-01-13
+end_on = 2017-01-15
+seats = 1500
+
+[location]
+name = "Leipziger Messe"
+country_code = "de"
+city = "Leipzig"
+zip_code = "04356"
+street = "Messe-Allee 1"
+latitude = 51.396539
+longitude = 12.395663
+
+[links]
+website = "https://www.dreamhack-leipzig.de/"
