@@ -4,6 +4,7 @@ series_slug = "glp"
 start_on = 2015-10-30
 end_on = 2015-11-01
 seats = 56
+attendees = 56
 
 [location]
 name = "Gehörlosenzentrum Villa Bremen"

@@ -3,7 +3,8 @@ title = "Green LAN Party 6"
 series_slug = "glp"
 start_on = 2021-10-15
 end_on = 2021-10-17
-seats = 40
+seats = 55
+attendees = 40
 
 [location]
 name = "Gehörlosenzentrum Villa Bremen"
