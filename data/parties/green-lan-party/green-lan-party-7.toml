@@ -1,0 +1,19 @@
+slug = "green-lan-party-7"
+title = "Green LAN Party 7"
+series_slug = "green-lan-party"
+start_on = 2023-10-12
+end_on = 2023-10-15
+seats = 55
+attendees = 43
+
+[location]
+name = "Gehörlosenzentrum Villa Bremen"
+country_code = "de"
+city = "Bremen"
+zip_code = "28359"
+street = "Schwachhauser Heerstraße 266"
+latitude = 53.09155
+longitude = 8.86723
+
+[links]
+website = "https://glp.deaf-clan.de/"

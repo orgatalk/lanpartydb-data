@@ -1,0 +1,19 @@
+slug = "green-lan-party-6"
+title = "Green LAN Party 6"
+series_slug = "green-lan-party"
+start_on = 2021-10-15
+end_on = 2021-10-17
+seats = 55
+attendees = 40
+
+[location]
+name = "Gehörlosenzentrum Villa Bremen"
+country_code = "de"
+city = "Bremen"
+zip_code = "28359"
+street = "Schwachhauser Heerstraße 266"
+latitude = 53.09155
+longitude = 8.86723
+
+[links]
+website = "https://www.deaf-clan.de/"
