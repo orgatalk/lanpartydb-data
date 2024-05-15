@@ -54,6 +54,11 @@ name = "genial verpLANt"
 alternative_names = ["total verpLANt"]
 
 [[series]]
+slug = "glp"
+name = "Green LAN Party"
+alternative_names = ["GLP"]
+
+[[series]]
 slug = "gsh-lan"
 name = "GSH-LAN"
 alternative_names = ["GSH"]

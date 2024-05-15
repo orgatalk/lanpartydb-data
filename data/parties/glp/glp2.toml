@@ -1,0 +1,18 @@
+slug = "glp2"
+title = "Green LAN Party 2"
+series_slug = "glp"
+start_on = 2011-10-21
+end_on = 2011-10-23
+seats = 23
+
+[location]
+name = "Gehörlosenzentrum Villa Bremen"
+country_code = "de"
+city = "Bremen"
+zip_code = "28359"
+street = "Schwachhauser Heerstraße 266"
+latitude = 53.09155
+longitude = 8.86723
+
+[links]
+website = "https://www.facebook.com/DeafClan/"
