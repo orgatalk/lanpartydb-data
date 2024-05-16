@@ -36,6 +36,10 @@
       "type": "integer",
       "minimum": 2
     },
+    "attendees": {
+      "type": "integer",
+      "minimum": 2
+    },
     "online": {
       "type": "boolean"
     },

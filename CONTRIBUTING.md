@@ -71,6 +71,9 @@ A party *may* have:
   single string or an array of multiple strings.
 * A number of `seats`. This should be the number of seats the party
   actually offered, not the number of attendees.
+* A number of `attendees`. This should be the number of attendees the
+  party had, or the number of tickets sold if only that information is
+  available.
 * `online = true`, *if* the party was online-only (e.g. during a
   pandemic). In this case, the `location` section must not be provided.
 * A `location` section; see below.
@@ -119,7 +122,8 @@ series_slug = "awesome-lan"
 organizer_entity = "Awesome LAN e.V."
 start_on = 2000-07-28
 end_on = 2000-07-30
-seats = 23
+seats = 32
+attendees = 23
 
 [location]
 name = "Gasthof zum Wattwurm"
