@@ -37,6 +37,11 @@ jobs:
           shopt -s globstar
           taplo lint --schema "file://"$PWD"/schemas/party.json" data/parties/**/*.toml && taplo format --check data/parties/**/*.toml
 
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
       - name: Ensure that parties are in the past
         run: |
           python3 tools/check_party_date.py data/parties/**/*.toml
