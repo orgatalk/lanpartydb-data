@@ -15,5 +15,5 @@ street = "Rudolf-Diesel-Straße 20"
 latitude = 49.39571
 longitude = 8.63612
 
-[links]
-website = "https://www.convention-x-treme.de/"
+[links.website]
+url = "https://www.convention-x-treme.de/"

@@ -15,5 +15,5 @@ street = "Lessingstraße 1"
 latitude = 50.08202
 longitude = 8.93449
 
-[links]
-website = "http://www.flashlight-network.de/"
+[links.website]
+url = "http://www.flashlight-network.de/"

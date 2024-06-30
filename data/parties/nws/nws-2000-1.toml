@@ -11,5 +11,5 @@ country_code = "de"
 city = "Stade"
 zip_code = "21682"
 
-[links]
-website = "https://www.nwsnet.de/"
+[links.website]
+url = "https://www.nwsnet.de/"

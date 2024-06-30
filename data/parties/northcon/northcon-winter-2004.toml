@@ -15,5 +15,5 @@ street = "Justus-von-Liebig-Str. 2-4"
 latitude = 54.09269
 longitude = 9.97664
 
-[links]
-website = "https://www.northcon.de/"
+[links.website]
+url = "https://www.northcon.de/"

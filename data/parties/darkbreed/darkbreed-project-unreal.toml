@@ -15,5 +15,6 @@ street = "Martin-Luther-King-Straße 48"
 latitude = 50.14958
 longitude = 8.92063
 
-[links]
-website = { url = "http://www.darkbreed.net/", offline = true }
+[links.website]
+url = "http://www.darkbreed.net/"
+offline = true

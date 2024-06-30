@@ -15,5 +15,5 @@ street = "Rathausstr. 5"
 latitude = 50.20259
 longitude = 8.97720
 
-[links]
-website = "http://www.connect2rza.de/"
+[links.website]
+url = "http://www.connect2rza.de/"

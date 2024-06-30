@@ -81,25 +81,17 @@
       "type": "object",
       "properties": {
         "website": {
-          "oneOf": [
-            {
+          "type": "object",
+          "properties": {
+            "url": {
               "type": "string"
             },
-            {
-              "type": "object",
-              "properties": {
-                "url": {
-                  "type": "string"
-                },
-                "offline": {
-                  "type": "boolean"
-                }
-              },
-              "required": [
-                "url",
-                "offline"
-              ]
+            "offline": {
+              "type": "boolean"
             }
+          },
+          "required": [
+            "url"
           ]
         }
       },

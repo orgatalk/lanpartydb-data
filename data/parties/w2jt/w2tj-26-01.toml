@@ -15,5 +15,5 @@ street = "Uferstr. 19"
 latitude = 50.07773
 longitude = 8.9849
 
-[links]
-website = "https://w2tj.net/"
+[links.website]
+url = "https://w2tj.net/"

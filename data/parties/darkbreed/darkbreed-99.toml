@@ -10,5 +10,6 @@ seats = 622
 country_code = "de"
 city = "Darmstadt"
 
-[links]
-website = { url = "http://www.darkbreed.net/", offline = true }
+[links.website]
+url = "http://www.darkbreed.net/"
+offline = true

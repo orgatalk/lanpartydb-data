@@ -15,5 +15,5 @@ street = "Hohensteinstr. 7"
 latitude = 50.19143
 longitude = 8.99468
 
-[links]
-website = "http://www.connect2rza.de/"
+[links.website]
+url = "http://www.connect2rza.de/"

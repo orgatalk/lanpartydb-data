@@ -15,5 +15,6 @@ street = "Soltauer Straße 39"
 latitude = 52.87472
 longitude = 9.70557
 
-[links]
-website = { url = "http://www.the-activation.de/", offline = true }
+[links.website]
+url = "http://www.the-activation.de/"
+offline = true

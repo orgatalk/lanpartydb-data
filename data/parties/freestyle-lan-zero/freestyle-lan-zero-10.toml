@@ -15,5 +15,5 @@ street = "Josef-Assam-Straße 1"
 latitude = 48.05135
 longitude = 14.13253
 
-[links]
-website = "https://www.krru.at/content/events"
+[links.website]
+url = "https://www.krru.at/content/events"

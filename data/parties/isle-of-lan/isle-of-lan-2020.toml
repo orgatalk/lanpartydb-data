@@ -14,5 +14,5 @@ street = "Kapellenstrasse 14"
 latitude = 47.53511
 longitude = 9.18431
 
-[links]
-website = "https://www.isleoflan.ch/"
+[links.website]
+url = "https://www.isleoflan.ch/"

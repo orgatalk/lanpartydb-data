@@ -15,5 +15,5 @@ street = "Am Eichwald 7"
 latitude = 50.05096
 longitude = 8.96384
 
-[links]
-website = "http://www.flashlight-network.de/"
+[links.website]
+url = "http://www.flashlight-network.de/"

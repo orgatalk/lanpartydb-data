@@ -14,5 +14,5 @@ street = "Hauptstraße 27"
 latitude = 53.48528
 longitude = 9.32291
 
-[links]
-website = "https://www.nwsnet.de/"
+[links.website]
+url = "https://www.nwsnet.de/"

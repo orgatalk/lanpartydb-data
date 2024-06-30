@@ -15,5 +15,5 @@ street = "Parkstraße 1"
 latitude = 49.29608
 longitude = 8.69064
 
-[links]
-website = "https://www.convention-x-treme.de/"
+[links.website]
+url = "https://www.convention-x-treme.de/"

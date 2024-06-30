@@ -15,5 +15,5 @@ street = "Schwachhauser Heerstraße 266"
 latitude = 53.09155
 longitude = 8.86723
 
-[links]
-website = "https://glp.deaf-clan.de/"
+[links.website]
+url = "https://glp.deaf-clan.de/"

@@ -15,5 +15,5 @@ street = "Rübekamp 13"
 latitude = 53.66049
 longitude = 9.79380
 
-[links]
-website = "http://www.fragshow.de/"
+[links.website]
+url = "http://www.fragshow.de/"

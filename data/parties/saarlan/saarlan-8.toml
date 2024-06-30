@@ -13,5 +13,5 @@ city = "Schiffweiler"
 zip_code = "66578"
 street = "Comeniusstraße 2"
 
-[links]
-website = "https://www.saar-lan.de/party/14"
+[links.website]
+url = "https://www.saar-lan.de/party/14"

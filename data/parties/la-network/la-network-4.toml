@@ -15,5 +15,5 @@ street = "Wiesbadener Str. 17"
 latitude = 50.21257
 longitude = 7.99760
 
-[links]
-website = "http://www.la-network.de/"
+[links.website]
+url = "http://www.la-network.de/"

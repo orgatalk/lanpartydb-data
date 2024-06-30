@@ -15,5 +15,5 @@ street = "Innere Münchener Straße 2"
 latitude = 48.53169
 longitude = 12.14859
 
-[links]
-website = "http://knastlan.de/"
+[links.website]
+url = "http://knastlan.de/"

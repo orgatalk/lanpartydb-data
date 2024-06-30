@@ -15,5 +15,5 @@ street = "Schulstraße"
 latitude = 50.19630
 longitude = 8.98866
 
-[links]
-website = "http://www.connect2rza.de/"
+[links.website]
+url = "http://www.connect2rza.de/"

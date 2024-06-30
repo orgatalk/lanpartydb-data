@@ -6,5 +6,5 @@ start_on = 2016-01-09
 end_on = 2016-01-10
 seats = 80
 
-[links]
-website = "https://www.total-verplant.de/turnier/?event_id=8&type=full"
+[links.website]
+url = "https://www.total-verplant.de/turnier/?event_id=8&type=full"

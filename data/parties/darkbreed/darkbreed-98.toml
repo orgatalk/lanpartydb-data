@@ -11,5 +11,6 @@ country_code = "de"
 city = "Dorheim (Friedberg)"
 zip_code = "61169"
 
-[links]
-website = { url = "http://www.darkbreed.net/", offline = true }
+[links.website]
+url = "http://www.darkbreed.net/"
+offline = true

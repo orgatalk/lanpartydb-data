@@ -14,5 +14,6 @@ street = "Hansestraße 16"
 latitude = 53.47125
 longitude = 9.69637
 
-[links]
-website = { url = "http://www.unitedlans.de/", offline = true }
+[links.website]
+url = "http://www.unitedlans.de/"
+offline = true

@@ -15,5 +15,5 @@ street = "Steinweg 25"
 latitude = 50.04696
 longitude = 8.96818
 
-[links]
-website = "http://www.flashlight-network.de/"
+[links.website]
+url = "http://www.flashlight-network.de/"

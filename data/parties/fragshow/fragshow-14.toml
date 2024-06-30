@@ -15,5 +15,5 @@ street = "Fahltskamp 36"
 latitude = 53.65801
 longitude = 9.80450
 
-[links]
-website = "http://www.fragshow.de/"
+[links.website]
+url = "http://www.fragshow.de/"

@@ -15,5 +15,5 @@ street = "Ehrenfellner-Straße 9"
 latitude = 48.26681
 longitude = 14.25569
 
-[links]
-website = "https://www.krru.at/content/events"
+[links.website]
+url = "https://www.krru.at/content/events"

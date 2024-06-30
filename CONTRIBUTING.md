@@ -96,8 +96,12 @@ A location section *may* have:
 
 A links section *must* have:
 
-* A `website`, which is a common URL like
-  `https://www.awesomelan.example/`.
+* A `website`, which:
+
+  * *must* specify `url`, which is a common URL like
+    `https://www.awesomelan.example/`.
+  * *can* specify `offline`, with a value of either `false` (the
+    default) or `true`.
 
 
 Minimal party example:
@@ -134,6 +138,6 @@ street = "Kirchweg 7"
 latitude = 54.03847
 longitude = 8.25632
 
-[links]
-website = "https://www.awesomelan.example/"
+[links.website]
+url = "https://www.awesomelan.example/"
 ```

@@ -15,5 +15,5 @@ street = "Messe-Allee 1"
 latitude = 51.396539
 longitude = 12.395663
 
-[links]
-website = "https://www.caggtus.de/"
+[links.website]
+url = "https://www.caggtus.de/"

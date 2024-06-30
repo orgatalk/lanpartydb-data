@@ -15,5 +15,5 @@ street = "Hubertusstraße 6"
 latitude = 51.5012569
 longitude = 8.371602787447877
 
-[links]
-website = "https://www.lan-team.de/party/75"
+[links.website]
+url = "https://www.lan-team.de/party/75"

@@ -12,5 +12,5 @@ city = "Illingen"
 zip_code = "66557"
 street = "Schulstraße 4"
 
-[links]
-website = "https://www.saar-lan.de/"
+[links.website]
+url = "https://www.saar-lan.de/"

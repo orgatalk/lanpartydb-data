@@ -15,5 +15,5 @@ street = "Hemmerder Hellweg 13"
 latitude = 51.543588
 longitude = 7.8068133
 
-[links]
-website = "https://www.lan-team.de/party/21"
+[links.website]
+url = "https://www.lan-team.de/party/21"

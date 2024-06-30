@@ -13,5 +13,6 @@ street = "Bahnhofsallee 1"
 latitude = 51.53679
 longitude = 9.92247
 
-[links]
-website = { url = "http://www.thezenith.de/", offline = true }
+[links.website]
+url = "http://www.thezenith.de/"
+offline = true

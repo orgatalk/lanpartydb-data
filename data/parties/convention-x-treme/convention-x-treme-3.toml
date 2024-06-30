@@ -15,5 +15,5 @@ street = "Altenbürgzentrum 1"
 latitude = 49.13116
 longitude = 8.53391
 
-[links]
-website = "https://www.convention-x-treme.de/"
+[links.website]
+url = "https://www.convention-x-treme.de/"

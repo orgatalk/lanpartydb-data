@@ -15,5 +15,5 @@ street = "Anne-Frank-Str. 2"
 latitude = 50.05504
 longitude = 8.94255
 
-[links]
-website = "https://w2tj.net/"
+[links.website]
+url = "https://w2tj.net/"

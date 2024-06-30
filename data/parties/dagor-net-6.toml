@@ -14,5 +14,5 @@ street = "Kelsengasse 9"
 latitude = 48.17788
 longitude = 15.62287
 
-[links]
-website = "https://www.krru.at/content/events"
+[links.website]
+url = "https://www.krru.at/content/events"

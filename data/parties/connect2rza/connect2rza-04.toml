@@ -15,5 +15,5 @@ street = "Tannenweg 9"
 latitude = 50.21897
 longitude = 9.04309
 
-[links]
-website = "http://www.connect2rza.de/"
+[links.website]
+url = "http://www.connect2rza.de/"

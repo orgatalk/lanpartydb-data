@@ -15,5 +15,6 @@ street = "Messegelände"
 latitude = 52.32300
 longitude = 9.80465
 
-[links]
-website = { url = "http://www.the-activation.de/", offline = true }
+[links.website]
+url = "http://www.the-activation.de/"
+offline = true

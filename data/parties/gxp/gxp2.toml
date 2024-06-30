@@ -14,5 +14,5 @@ street = "Wasserloses Tal 2"
 latitude = 51.35312
 longitude = 7.48465
 
-[links]
-website = "http://www.gxp.de/"
+[links.website]
+url = "http://www.gxp.de/"

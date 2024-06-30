@@ -15,5 +15,5 @@ street = "Töpinger Straße 69"
 latitude = 53.0666
 longitude = 10.00084
 
-[links]
-website = "https://www.lanresort.de/"
+[links.website]
+url = "https://www.lanresort.de/"

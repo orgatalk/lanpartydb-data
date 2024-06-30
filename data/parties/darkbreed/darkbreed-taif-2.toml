@@ -14,5 +14,6 @@ zip_code = "65843"
 latitude = 50.12095
 longitude = 8.52404
 
-[links]
-website = { url = "http://www.darkbreed.net/", offline = true }
+[links.website]
+url = "http://www.darkbreed.net/"
+offline = true

@@ -14,5 +14,5 @@ street = "Hollerallee 101"
 latitude = 53.08886
 longitude = 8.81416
 
-[links]
-website = "http://www.dimension6.de/"
+[links.website]
+url = "http://www.dimension6.de/"

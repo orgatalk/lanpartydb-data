@@ -15,5 +15,5 @@ street = "Richard-Köhn-Straße"
 latitude = 53.64635
 longitude = 9.79357
 
-[links]
-website = "http://www.fragshow.de/"
+[links.website]
+url = "http://www.fragshow.de/"

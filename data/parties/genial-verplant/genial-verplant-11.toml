@@ -13,5 +13,5 @@ city = "Brake"
 zip_code = "26919"
 street = "Philosophenweg 8"
 
-[links]
-website = "https://www.total-verplant.de/turnier/?event_id=11&type=full"
+[links.website]
+url = "https://www.total-verplant.de/turnier/?event_id=11&type=full"

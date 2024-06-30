@@ -15,5 +15,6 @@ street = "Rheinstraße 20"
 latitude = 50.07714
 longitude = 8.24423
 
-[links]
-website = { url = "http://www.darkbreed.net/", offline = true }
+[links.website]
+url = "http://www.darkbreed.net/"
+offline = true

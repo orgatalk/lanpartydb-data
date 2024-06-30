@@ -15,5 +15,5 @@ street = "Rathausplatz 1"
 latitude = 50.23393
 longitude = 8.76262
 
-[links]
-website = "http://www.klopperhoppel.de/"
+[links.website]
+url = "http://www.klopperhoppel.de/"

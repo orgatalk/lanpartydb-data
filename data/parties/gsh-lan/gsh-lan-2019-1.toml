@@ -12,5 +12,5 @@ city = "Garbsen"
 zip_code = "30827"
 street = "Ludwigstraße 5"
 
-[links]
-website = "https://www.gsh-lan.com/party/?do=event&id=28"
+[links.website]
+url = "https://www.gsh-lan.com/party/?do=event&id=28"

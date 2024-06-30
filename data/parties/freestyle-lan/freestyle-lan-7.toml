@@ -15,5 +15,5 @@ street = "Gablonzerstraße 13"
 latitude = 48.04993
 longitude = 14.12830
 
-[links]
-website = "https://www.krru.at/content/events"
+[links.website]
+url = "https://www.krru.at/content/events"

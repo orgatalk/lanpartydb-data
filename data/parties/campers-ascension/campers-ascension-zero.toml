@@ -15,5 +15,5 @@ street = "Technologiepark 17"
 latitude = 48.24576
 longitude = 14.61981
 
-[links]
-website = "https://www.krru.at/content/events"
+[links.website]
+url = "https://www.krru.at/content/events"

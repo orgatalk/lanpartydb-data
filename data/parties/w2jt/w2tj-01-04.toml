@@ -15,5 +15,5 @@ street = "Hans-Gerstner-Straße 3a"
 latitude = 50.05430
 longitude = 8.93637
 
-[links]
-website = "https://w2tj.net/"
+[links.website]
+url = "https://w2tj.net/"

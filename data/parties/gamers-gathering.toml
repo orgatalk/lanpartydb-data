@@ -13,5 +13,6 @@ street = "Emscherstraße 71"
 latitude = 51.47950
 longitude = 6.78200
 
-[links]
-website = { url = "http://www.gamers-gathering.de/", offline = true }
+[links.website]
+url = "http://www.gamers-gathering.de/"
+offline = true

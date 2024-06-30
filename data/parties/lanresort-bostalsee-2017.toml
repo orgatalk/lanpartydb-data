@@ -14,5 +14,5 @@ street = "Lindenallee 1"
 latitude = 49.574315
 longitude = 7.072201
 
-[links]
-website = "https://bostalsee.lanresort.de/"
+[links.website]
+url = "https://bostalsee.lanresort.de/"

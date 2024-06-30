@@ -15,5 +15,5 @@ street = "Bruchbühlweg 5"
 latitude = 49.12903
 longitude = 8.51984
 
-[links]
-website = "https://www.convention-x-treme.de/"
+[links.website]
+url = "https://www.convention-x-treme.de/"

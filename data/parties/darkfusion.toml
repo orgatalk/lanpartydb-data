@@ -10,5 +10,6 @@ country_code = "de"
 city = "Bad Schwalbach"
 zip_code = "65307"
 
-[links]
-website = { url = "http://terafusion.de/df99/welcome.html", offline = true }
+[links.website]
+url = "http://terafusion.de/df99/welcome.html"
+offline = true

@@ -15,5 +15,5 @@ street = "Seppl-Herberger-Ring 6"
 latitude = 49.23051
 longitude = 8.52780
 
-[links]
-website = "https://www.convention-x-treme.de/"
+[links.website]
+url = "https://www.convention-x-treme.de/"

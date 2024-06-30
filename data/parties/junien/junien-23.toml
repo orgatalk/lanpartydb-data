@@ -15,5 +15,5 @@ street = "Wasserloses Tal 2"
 latitude = 51.35312
 longitude = 7.48465
 
-[links]
-website = "https://www.junien.de/party/23/"
+[links.website]
+url = "https://www.junien.de/party/23/"
