@@ -1,0 +1,15 @@
+slug = "planet-insomnia-10"
+title = "Planet Insomnia 10"
+series_slug = "planet-insomnia"
+start_on = 2001-04-06
+end_on = 2001-04-08
+seats = 400
+
+[location]
+name = "Burg Seevetal"
+country_code = "de"
+city = "Hittfeld"
+zip_code = "21218"
+street = "Am Göhlenbach 11"
+latitude = 53.38708
+longitude = 9.98044

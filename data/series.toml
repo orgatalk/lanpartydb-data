@@ -123,6 +123,10 @@ name = "NWS"
 alternative_names = ["NetzWerkSession"]
 
 [[series]]
+slug = "planet-insomnia"
+name = "Planet Insomnia"
+
+[[series]]
 slug = "saarlan"
 name = "SaarLAN"
 

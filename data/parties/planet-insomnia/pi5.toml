@@ -1,0 +1,15 @@
+slug = "planet-insomnia-5"
+title = "Planet Insomnia 6"
+series_slug = "planet-insomnia"
+start_on = 1999-11-26
+end_on = 1999-11-28
+seats = 400
+
+[location]
+name = "Burg Seevetal"
+country_code = "de"
+city = "Hittfeld"
+zip_code = "21218"
+street = "Am Göhlenbach 11"
+latitude = 53.38708
+longitude = 9.98044
