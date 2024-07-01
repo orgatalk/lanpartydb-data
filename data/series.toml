@@ -3,146 +3,181 @@
 [[series]]
 slug = "caggtus"
 name = "CAGGTUS"
+country_codes = ["de"]
 
 [[series]]
 slug = "campers-ascension"
 name = "Campers Ascension"
+country_codes = ["at"]
 
 [[series]]
 slug = "connect2rza"
 name = "connEcT2RZA"
+country_codes = ["de"]
 
 [[series]]
 slug = "convention-x-treme"
 name = "Convention-X-Treme"
+country_codes = ["de"]
 
 [[series]]
 slug = "darkbreed"
 name = "DarkBreed"
+country_codes = ["de"]
 
 [[series]]
 slug = "dreamhack-leipzig"
 name = "DreamHack Leipzig"
+country_codes = ["de"]
 
 [[series]]
 slug = "ennsomnia"
 name = "Ennsomnia"
+country_codes = ["at"]
 
 [[series]]
 slug = "flashlight-network"
 name = "Flashlight-Network"
+country_codes = ["de"]
 
 [[series]]
 slug = "fragshow"
 name = "FragShow"
+country_codes = ["de"]
 
 [[series]]
 slug = "freestyle-lan"
 name = "Freestyle-LAN"
+country_codes = ["at"]
 
 [[series]]
 slug = "freestyle-lan-zero"
 name = "Freestyle-LAN Zero"
+country_codes = ["at"]
 
 [[series]]
 slug = "gamers-congress"
 name = "Gamers' Congress"
+country_codes = ["de"]
 
 [[series]]
 slug = "genial-verplant"
 name = "genial verpLANt"
 alternative_names = ["total verpLANt"]
+country_codes = ["de"]
 
 [[series]]
 slug = "green-lan-party"
 name = "Green LAN Party"
 alternative_names = ["GLP"]
+country_codes = ["de"]
 
 [[series]]
 slug = "gsh-lan"
 name = "GSH-LAN"
 alternative_names = ["GSH"]
+country_codes = ["de"]
 
 [[series]]
 slug = "gxp"
 name = "gXp"
+country_codes = ["de"]
 
 [[series]]
 slug = "heilige-3-camper"
 name = "Heilige 3 Camper"
+country_codes = ["at"]
 
 [[series]]
 slug = "insanity"
 name = "Insanity"
+country_codes = ["de"]
 
 [[series]]
 slug = "isle-of-lan"
 name = "Isle of LAN"
+country_codes = ["ch"]
 
 [[series]]
 slug = "junien"
 name = "['ju:nien]"
+country_codes = ["de"]
 
 [[series]]
 slug = "klopperhoppel"
 name = "Klopperhoppel"
+country_codes = ["de"]
 
 [[series]]
 slug = "la-network"
 name = "LA-Network"
+country_codes = ["de"]
 
 [[series]]
 slug = "lanresort"
 name = "LANresort"
+country_codes = ["de"]
 
 [[series]]
 slug = "lan-team-invite"
 name = "LAN-Team - Invite"
 alternative_names = ["LAN-Team - Invite Only"]
+country_codes = ["de"]
 
 [[series]]
 slug = "leonding-lan"
 name = "LeondingLAN"
+country_codes = ["at"]
 
 [[series]]
 slug = "max"
 name = "Max"
+country_codes = ["de"]
 
 [[series]]
 slug = "northcon"
 name = "NorthCon"
 alternative_names = ["Northern LAN Convention"]
+country_codes = ["de"]
 
 [[series]]
 slug = "nws"
 name = "NWS"
 alternative_names = ["NetzWerkSession"]
+country_codes = ["de"]
 
 [[series]]
 slug = "planet-insomnia"
 name = "Planet Insomnia"
+country_codes = ["de"]
 
 [[series]]
 slug = "saarlan"
 name = "SaarLAN"
+country_codes = ["de"]
 
 [[series]]
 slug = "slg-lan"
 name = "sLg | LAN"
+country_codes = ["de"]
 
 [[series]]
 slug = "the-activation"
 name = "The Activation"
+country_codes = ["de"]
 
 [[series]]
 slug = "unitedlans"
 name = "unitedLANs"
+country_codes = ["de"]
 
 [[series]]
 slug = "w2tj"
 name = "W2tJ"
 alternative_names = ["Welcome 2 the Jungle"]
+country_codes = ["de"]
 
 [[series]]
 slug = "wildefingerspiele"
 name = "Wildefingerspiele"
+country_codes = ["de"]
