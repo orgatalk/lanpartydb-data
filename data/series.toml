@@ -88,10 +88,6 @@ slug = "klopperhoppel"
 name = "Klopperhoppel"
 
 [[series]]
-slug = "knastlan"
-name = "KnastLan"
-
-[[series]]
 slug = "la-network"
 name = "LA-Network"
 
