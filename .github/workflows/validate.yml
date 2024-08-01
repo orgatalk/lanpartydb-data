@@ -21,12 +21,12 @@ jobs:
         uses: actions/cache@v4
         with:
           path: /usr/local/bin/taplo
-          key: taplo-0.8.1
+          key: taplo-0.9.3
 
       - name: Install Taplo CLI
         if: steps.cache-taplo.outputs.cache-hit != 'true'
         run: |
-          wget -q -O - 'https://github.com/tamasfe/taplo/releases/download/0.8.1/taplo-linux-x86_64.gz' | gunzip -c > /usr/local/bin/taplo
+          wget -q -O - 'https://github.com/tamasfe/taplo/releases/download/0.9.3/taplo-linux-x86_64.gz' | gunzip -c > /usr/local/bin/taplo
           chmod u+x /usr/local/bin/taplo
 
       - name: Validate party series TOML file
