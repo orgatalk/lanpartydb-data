@@ -1,0 +1,20 @@
+slug = "exile-lan-9"
+title = "Exile LAN IX"
+series_slug = "exile-lan"
+organizer_entity = "Exile Computer Gaming"
+start_on = 2009-03-28
+end_on = 2009-03-28
+seats = 60
+
+[location]
+name = "Hyatt Place Saratoga/Malta"
+country_code = "us"
+city = "Malta"
+zip_code = "12020"
+street = "20 State Farm Pl"
+latitude = 42.9692459
+longitude = -73.8041839
+
+[links.website]
+url = "https://www.capitallan.com/"
+

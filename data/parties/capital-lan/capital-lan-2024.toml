@@ -1,0 +1,23 @@
+slug = "capital-lan-2024"
+title = "Capital LAN 2024"
+series_slug = "capital-lan"
+organizer_entity = "Capital LAN Corp."
+start_on = "2024-08-15"
+end_on = "2024-08-18"
+seats = 84
+attendees = 84
+
+[location]
+name = "Hilton Garden Inn Troy"
+country_code = "us"
+city = "Troy"
+zip_code = "12180"
+street = "235 Hoosick St"
+latitude = 42.7387349
+longitude = -73.6713016
+
+[links.website]
+url = "https://www.capitallan.com/"
+
+
+

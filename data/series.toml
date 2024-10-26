@@ -1,6 +1,11 @@
 # Please use alphabetical order.
 
 [[series]]
+slug = "atrlan-lan"
+name = "ATRLAN LAN"
+country_codes = ["us"]
+
+[[series]]
 slug = "caggtus"
 name = "CAGGTUS"
 country_codes = ["de"]
@@ -9,6 +14,11 @@ country_codes = ["de"]
 slug = "campers-ascension"
 name = "Campers Ascension"
 country_codes = ["at"]
+
+[[series]]
+slug = "capital-lan"
+name = "Capital LAN"
+country_codes = ["us"]
 
 [[series]]
 slug = "connect2rza"
@@ -34,6 +44,16 @@ country_codes = ["de"]
 slug = "ennsomnia"
 name = "Ennsomnia"
 country_codes = ["at"]
+
+[[series]]
+slug = "exile-lan"
+name = "Exile LAN"
+country_codes = ["us"]
+
+[[series]]
+slug = "exodus-lan"
+name = "Exodus LAN"
+country_codes = ["us"]
 
 [[series]]
 slug = "flashlight-network"
