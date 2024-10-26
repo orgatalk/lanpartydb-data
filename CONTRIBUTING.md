@@ -21,8 +21,8 @@ Party series are listed in a single file,
 A series *must* specify:
 
 * A `slug`, which is an identifier that can nicely be used in URLs and
-  the filesystem. It should contain of lower-case latin characters,
-  numbers, and dashes only.
+  the filesystem. It may only contain lower-case latin characters,
+  numbers, and dashes.
 * A `name`, which does not have the slug's limitations.
 
 A series *may* have:
@@ -55,8 +55,8 @@ If the party is part of a series, it should be in path
 A party *must* have:
 
 * A `slug`, which is an identifier that can nicely be used in URLs and
-  the filesystem. It should contain of lower-case latin characters,
-  numbers, and dashes only.
+  the filesystem. It may only contain lower-case latin characters,
+  numbers, and dashes.
 * A `title`, which does not have the slug's limitations.
 * A start date, `start_on`. Format: `YYYY-MM-DD`, without surrounding
   double quotes.
