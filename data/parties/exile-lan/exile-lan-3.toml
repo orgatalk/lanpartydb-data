@@ -2,8 +2,8 @@ slug = "exile-lan-3"
 title = "Exile LAN III"
 series_slug = "exile-lan"
 organizer_entity = "Exile Computer Gaming"
-start_on = "2006-12-03"
-end_on = "2006-12-03"
+start_on = 2006-12-03
+end_on = 2006-12-03
 
 [location]
 name = "Holiday Inn Express"
