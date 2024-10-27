@@ -48,7 +48,7 @@ def load_party(path: Path) -> Party:
 
 def select_parties_not_over(parties: Iterable[Party]) -> list[Party]:
     today = date.today()
-    return list(filter(lambda party: party.end_on >= today, parties))
+    return list(filter(lambda party: party.end_on > today, parties))
 
 
 def print_parties_not_in_past(parties: Iterable[Party]) -> None:
