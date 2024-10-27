@@ -1,8 +1,8 @@
 # Please use alphabetical order.
 
 [[series]]
-slug = "atrlan-lan"
-name = "ATRLAN LAN"
+slug = "atrlan"
+name = "ATRLAN"
 country_codes = ["us"]
 
 [[series]]
