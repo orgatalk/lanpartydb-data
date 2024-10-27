@@ -1,0 +1,21 @@
+slug = "exile-lan-1"
+title = "Exile LAN I"
+series_slug = "exile-lan"
+organizer_entity = "Exile Computer Gaming"
+start_on = "2006-08-12"
+end_on = "2006-08-12"
+seats = 12
+attendees = 7
+
+[location]
+name = "La Quinta Inn & Suites"
+country_code = "us"
+city = "Latham"
+zip_code = "12110"
+street = "833 Loudon Rd"
+latitude = 42.7507916
+longitude = -73.7590476
+
+[links.website]
+url = "https://www.capitallan.com/gallery/category/20-exile-lan-i-08-12-2006/"
+

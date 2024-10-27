@@ -1,0 +1,21 @@
+slug = "atrlan-2022"
+title = "ATRLAN 2022"
+series_slug = "atrlan"
+organizer_entity = "ATR Gamers"
+start_on = 2022-08-25
+end_on = 2022-08-28
+seats = 84
+attendees = 54
+
+[location]
+name = "Hilton Garden Inn Troy"
+country_code = "us"
+city = "Troy"
+zip_code = "12180"
+street = "235 Hoosick St"
+latitude = 42.7387349
+longitude = -73.6713016
+
+[links.website]
+url = "https://www.capitallan.com/gallery/category/47-atrlan-2022-0825-282022/"
+

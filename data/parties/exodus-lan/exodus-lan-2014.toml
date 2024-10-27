@@ -1,0 +1,20 @@
+slug = "exodus-lan-2014"
+title = "Exodus LAN 2014"
+series_slug = "exodus-lan"
+organizer_entity = "Exile Computer Gaming"
+start_on = 2014-02-28
+end_on = 2014-03-02
+seats = 70
+
+[location]
+name = "Hilton Garden Inn Troy"
+country_code = "us"
+city = "Troy"
+zip_code = "12180"
+street = "235 Hoosick St"
+latitude = 42.7387349
+longitude = -73.6713016
+
+[links.website]
+url = "https://www.capitallan.com/gallery/category/23-exodus-lan-2014-0228-03022014/"
+

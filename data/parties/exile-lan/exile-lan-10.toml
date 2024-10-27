@@ -1,0 +1,21 @@
+slug = "exile-lan-10"
+title = "Exile LAN X"
+series_slug = "exile-lan"
+organizer_entity = "Exile Computer Gaming"
+start_on = 2010-09-11
+end_on = 2010-09-11
+seats = 70
+attendees = 77
+
+[location]
+name = "Ramada Inn"
+country_code = "us"
+city = "Latham"
+zip_code = "12110"
+street = "957 Loudon Rd"
+latitude = 42.7657935
+longitude = -73.7555106
+
+[links.website]
+url = "https://www.capitallan.com/gallery/category/11-exile-lan-x-09112010/"
+

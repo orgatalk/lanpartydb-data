@@ -1,0 +1,20 @@
+slug = "exile-lan-8"
+title = "Exile LAN VIII"
+series_slug = "exile-lan"
+organizer_entity = "Exile Computer Gaming"
+start_on = 2008-09-27
+end_on = 2008-09-27
+seats = 60
+
+[location]
+name = "Holiday Inn Express"
+country_code = "us"
+city = "Latham"
+zip_code = "12110"
+street = "957 Loudon Rd"
+latitude = 42.7657935
+longitude = -73.7555106
+
+[links.website]
+url = "https://www.capitallan.com/gallery/category/13-exile-lan-viii-09272008/"
+

@@ -1,0 +1,21 @@
+slug = "atrlan-2018"
+title = "ATRLAN 2018"
+series_slug = "atrlan"
+organizer_entity = "ATR Gamers"
+start_on = 2018-04-06
+end_on = 2018-04-08
+seats = 70
+attendees = 71
+
+[location]
+name = "Hilton Garden Inn Troy"
+country_code = "us"
+city = "Troy"
+zip_code = "12180"
+street = "235 Hoosick St"
+latitude = 42.7387349
+longitude = -73.6713016
+
+[links.website]
+url = "https://www.capitallan.com/gallery/category/45-atrlan-2018-0406-082018/"
+
