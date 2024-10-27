@@ -5,6 +5,16 @@ Do you want to add or correct data to/in this database? That's great!
 Here are some things to keep in mind, though.
 
 
+## File Format
+
+The data is represented in the form of flat files, formatted in
+[TOML](https://toml.io/) syntax. This should make the data sufficiently
+easy to read and write by both humans and computers.
+
+Use line feeds (LF) as end-of-line characters. Do not put blank lines
+(just a single line feed) at the end of each file.
+
+
 ## Structure
 
 For now, the only things modeled are LAN parties, and LAN party series.
