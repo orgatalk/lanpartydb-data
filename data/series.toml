@@ -150,6 +150,11 @@ name = "LeondingLAN"
 country_codes = ["at"]
 
 [[series]]
+slug = "lock-and-load"
+name = "LOCK AND LOAD"
+country_codes = ["ch"]
+
+[[series]]
 slug = "max"
 name = "Max"
 country_codes = ["de"]
@@ -201,8 +206,3 @@ country_codes = ["de"]
 slug = "wildefingerspiele"
 name = "Wildefingerspiele"
 country_codes = ["de"]
-
-[[series]]
-slug = "lock-and-load"
-name = "LOCK AND LOAD"
-country_codes = ["ch"]
