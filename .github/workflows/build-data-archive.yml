@@ -12,6 +12,10 @@ on:
 
 jobs:
   build:
+    # Grant `GITHUB_TOKEN` the necessary permissions.
+    permissions:
+      contents: write
+
     runs-on: ubuntu-latest
 
     steps:
