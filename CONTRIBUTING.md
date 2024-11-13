@@ -151,3 +151,10 @@ longitude = 8.25632
 [links.website]
 url = "https://www.awesomelan.example/"
 ```
+
+
+## Libraries
+
+Available libraries:
+
+- Python: https://github.com/lanpartydb/lib-python
