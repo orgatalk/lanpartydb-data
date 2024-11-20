@@ -109,6 +109,11 @@ name = "Heilige 3 Camper"
 country_codes = ["at"]
 
 [[series]]
+slug = "house-of-lan"
+name = "House of LAN"
+country_codes = ["de"]
+
+[[series]]
 slug = "insanity"
 name = "Insanity"
 country_codes = ["de"]
