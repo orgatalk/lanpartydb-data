@@ -1,0 +1,19 @@
+slug = "rofl-lan-2"
+title = "Ro.Fl.-LAN 128Bit, 64Bit waren Gestern"
+series_slug = "rofl-lan"
+organizer_entity = "Ro.Fl. e.V."
+start_on = 2015-11-27
+end_on = 2015-11-29
+seats = 128
+
+[location]
+name = "Haus der Jugend Cuxhaven"
+country_code = "de"
+city = "Cuxhaven"
+zip_code = "27474"
+street = "Abendrothstraße 25"
+latitude = 53.85990
+longitude = 8.69453
+
+[links.website]
+url = "https://www.rofl-lan.de/"

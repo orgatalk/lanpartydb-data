@@ -1,0 +1,18 @@
+slug = "rofl-lan-3"
+title = "Ro.Fl.-LAN HD, Schärfer als beim letzten mal"
+series_slug = "rofl-lan"
+organizer_entity = "Ro.Fl. e.V."
+start_on = 2016-08-19
+end_on = 2016-08-21
+
+[location]
+name = "Haus der Jugend Cuxhaven"
+country_code = "de"
+city = "Cuxhaven"
+zip_code = "27474"
+street = "Abendrothstraße 25"
+latitude = 53.85990
+longitude = 8.69453
+
+[links.website]
+url = "https://www.rofl-lan.de/"

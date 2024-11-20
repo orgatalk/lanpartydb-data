@@ -1,0 +1,19 @@
+slug = "rofl-lan-4"
+title = "Ro.Fl.-LAN 4K, realistisch wie nie"
+series_slug = "rofl-lan"
+organizer_entity = "Ro.Fl. e.V."
+start_on = 2017-12-01
+end_on = 2017-12-03
+seats = 124
+
+[location]
+name = "Haus der Jugend Cuxhaven"
+country_code = "de"
+city = "Cuxhaven"
+zip_code = "27474"
+street = "Abendrothstraße 25"
+latitude = 53.85990
+longitude = 8.69453
+
+[links.website]
+url = "https://www.rofl-lan.de/"
