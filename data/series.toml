@@ -177,6 +177,11 @@ name = "Planet Insomnia"
 country_codes = ["de"]
 
 [[series]]
+slug = "rofl-lan"
+name = "Ro.Fl.-LAN"
+country_codes = ["de"]
+
+[[series]]
 slug = "saarlan"
 name = "SaarLAN"
 country_codes = ["de"]
