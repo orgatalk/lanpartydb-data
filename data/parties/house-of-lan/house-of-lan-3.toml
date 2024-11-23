@@ -1,0 +1,20 @@
+slug = "house-of-lan-3"
+title = "House of LAN III"
+series_slug = "house-of-lan"
+organizer_entity = "LAN-Party Mitteldeutschland e.V."
+start_on = 2016-04-08
+end_on = 2016-04-10
+seats = 140
+attendees = 95
+
+[location]
+name = "Haus des Volkes"
+country_code = "de"
+city = "Bad Dürrenberg"
+zip_code = "06231"
+street = "Leipzigerstr. 12"
+latitude = 51.29379003656664
+longitude = 12.06584475097524
+
+[links.website]
+url = "https://www.house-of-lan.de/"

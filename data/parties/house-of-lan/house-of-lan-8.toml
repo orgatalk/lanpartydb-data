@@ -1,0 +1,20 @@
+slug = "house-of-lan-8"
+title = "House of LAN VIII"
+series_slug = "house-of-lan"
+organizer_entity = "LAN-Party Mitteldeutschland e.V."
+start_on = 2023-11-03
+end_on = 2023-11-05
+seats = 150
+attendees = 115
+
+[location]
+name = "Jahrhunderthalle Spergau"
+country_code = "de"
+city = "Leuna / Spergau"
+zip_code = "06237"
+street = "Straße zur Linde 40"
+latitude = 51.293882581953724
+longitude = 12.030370484203585
+
+[links.website]
+url = "https://www.house-of-lan.de/"
