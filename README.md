@@ -13,9 +13,9 @@ as well. Running a public LAN party takes quite some effort and deserves
 some respect.
 
 Not part of this repository is any software that actually does something
-to present the data, like aggregating it and rendering it to a website,
-for example. Creating software that will do this is part of the bigger
-project, though.
+to present the data, like aggregating it and [rendering it to a
+website](https://github.com/lanpartydb/website), for example. Creating
+software that will do this is part of the bigger project, though.
 
 
 ## Data Format
