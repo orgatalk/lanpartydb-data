@@ -4,6 +4,7 @@ series_slug = "nws"
 start_on = 2000-07-28
 end_on = 2000-07-30
 seats = 120
+attendees = 120
 
 [location]
 name = "Tanzsporthalle Stade"

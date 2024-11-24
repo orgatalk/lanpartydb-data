@@ -4,6 +4,7 @@ series_slug = "nws"
 start_on = 1999-10-29
 end_on = 1999-10-31
 seats = 60
+attendees = 58
 
 [location]
 name = "Tanzsporthalle Stade"

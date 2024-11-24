@@ -4,6 +4,7 @@ series_slug = "nws"
 start_on = 1999-07-16
 end_on = 1999-07-18
 seats = 40
+attendees = 37
 
 [location]
 name = "Dorfgemeinschaftshaus Kutenholz"
