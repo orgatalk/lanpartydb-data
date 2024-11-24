@@ -4,6 +4,7 @@ series_slug = "unitedlans"
 start_on = 2002-12-06
 end_on = 2002-12-08
 seats = 360
+attendees = 360
 
 [location]
 name = "Festhalle Buxtehude"
