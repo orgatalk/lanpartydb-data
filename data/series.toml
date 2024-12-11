@@ -56,6 +56,11 @@ name = "Exodus LAN"
 country_codes = ["us"]
 
 [[series]]
+slug = "fites-lan"
+name = "FITES LAN"
+country_codes = ["us"]
+
+[[series]]
 slug = "flashlight-network"
 name = "Flashlight-Network"
 country_codes = ["de"]
@@ -180,6 +185,16 @@ country_codes = ["de"]
 slug = "planet-insomnia"
 name = "Planet Insomnia"
 country_codes = ["de"]
+
+[[series]]
+slug = "quakecon"
+name = "QuakeCon"
+country_codes = ["us"]
+
+[[series]]
+slug = "rgb-lan"
+name = "RGB LAN"
+country_codes = ["us"]
 
 [[series]]
 slug = "rofl-lan"
