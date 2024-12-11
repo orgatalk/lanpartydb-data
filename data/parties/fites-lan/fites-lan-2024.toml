@@ -1,0 +1,14 @@
+slug = "fites-lan-2024"
+title = "FITES LAN 2024"
+series_slug = "fites-lan"
+start_on = 2024-03-15
+end_on = 2024-03-17
+seats = 150
+
+[location]
+name = "Rodeway Inn Myerstown"
+country_code = "us"
+city = "Myerstown"
+
+[links.website]
+url = "https://www.fites.net"
